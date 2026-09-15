@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>保護種検索 - サボテンEC情報集約データベース</title>
+<style>
+  :root {
+    color-scheme: light;
+    --bg: #f7f6f3;
+    --panel: #ffffff;
+    --border: #e1ddd4;
+    --text: #2b2a27;
+    --muted: #7a7568;
+    --accent: #3f6b4f;
+    --accent-soft: #e7f0e9;
+    --iucn: #8a5a1e;
+    --iucn-soft: #f6ecdd;
+    --danger: #b23b3b;
+    --danger-soft: #f8e9e9;
+    --link: #2f5f8a;
+    --stock-in: #2f7a3f;
+    --stock-out: #999489;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    padding: 24px 16px 64px;
+  }
+  .wrap { max-width: 780px; margin: 0 auto; }
+  h1 { font-size: 1.4rem; margin: 0 0 4px; }
+  .subtitle { color: var(--muted); font-size: 0.9rem; margin: 0 0 20px; }
+  .search-box {
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    padding: 4px 0 12px;
+    z-index: 1;
+  }
+  input[type="search"] {
+    width: 100%;
+    padding: 12px 14px;
+    font-size: 1rem;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--panel);
+    color: var(--text);
+  }
+  input[type="search"]:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin: 4px 2px 12px;
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+  }
+  .sci-name { font-style: italic; font-weight: 600; font-size: 1.05rem; }
+  .genus-note { color: var(--muted); font-size: 0.8rem; margin-left: 6px; font-style: normal; }
+  .synonyms { color: var(--muted); font-size: 0.82rem; margin-top: 4px; }
+  .badges { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; }
+  .badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    padding: 3px 9px;
+    border-radius: 999px;
+    font-weight: 600;
+  }
+  .badge.cites { background: var(--accent-soft); color: var(--accent); }
+  .badge.iucn { background: var(--iucn-soft); color: var(--iucn); }
+  .badge.fuzzy { background: #eee; color: var(--muted); font-weight: 500; }
+  .listings { margin-top: 10px; border-top: 1px solid var(--border); padding-top: 8px; }
+  .listings summary {
+    cursor: pointer;
+    font-size: 0.85rem;
+    color: var(--link);
+    font-weight: 600;
+  }
+  .listings summary:hover { text-decoration: underline; }
+  .listings-body { margin-top: 8px; display: flex; flex-direction: column; gap: 10px; }
+  .listing-site-name { font-size: 0.78rem; font-weight: 700; color: var(--muted); margin-bottom: 4px; }
+  .listing-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 10px;
+    padding: 5px 0;
+    text-decoration: none;
+    color: var(--text);
+    border-bottom: 1px dashed var(--border);
+    font-size: 0.82rem;
+  }
+  .listing-item:last-child { border-bottom: none; }
+  .listing-item:hover .listing-name { text-decoration: underline; color: var(--link); }
+  .listing-name { flex: 1; min-width: 0; }
+  .listing-meta { color: var(--muted); white-space: nowrap; display: flex; align-items: center; gap: 6px; }
+  .stock { font-size: 0.72rem; padding: 1px 7px; border-radius: 999px; font-weight: 600; }
+  .stock.in { background: var(--accent-soft); color: var(--stock-in); }
+  .stock.out { background: var(--danger-soft); color: var(--danger); }
+  .stock.unknown { background: #eee; color: var(--stock-out); }
+  .empty, .error, .loading {
+    text-align: center;
+    color: var(--muted);
+    padding: 40px 0;
+  }
+  .error { color: var(--danger); background: var(--danger-soft); border-radius: 10px; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #1c1b19;
+      --panel: #262420;
+      --border: #3a3730;
+      --text: #eae7e0;
+      --muted: #9b9689;
+      --accent: #7fbd94;
+      --accent-soft: #223a2b;
+      --iucn: #e0ac5f;
+      --iucn-soft: #3a2c17;
+      --danger: #e08080;
+      --danger-soft: #3a2323;
+      --link: #8fbede;
+      --stock-in: #7fbd94;
+      --stock-out: #857f72;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #1c1b19;
+    --panel: #262420;
+    --border: #3a3730;
+    --text: #eae7e0;
+    --muted: #9b9689;
+    --accent: #7fbd94;
+    --accent-soft: #223a2b;
+    --iucn: #e0ac5f;
+    --iucn-soft: #3a2c17;
+    --link: #8fbede;
+    --stock-in: #7fbd94;
+    --stock-out: #857f72;
+    --danger: #e08080;
+    --danger-soft: #3a2323;
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>保護種マスターDB 検索</h1>
+    <p class="subtitle">CITES附属書I種 / IUCN Critically Endangered種(サボテン科)を学名で検索できます</p>
+
+    <div class="search-box">
+      <input type="search" id="search-input" placeholder="学名を入力(例: Ariocarpus, retusus, Roseocactus)" autocomplete="off" disabled>
+    </div>
+    <div class="meta-row" id="meta-row" hidden>
+      <span id="result-count"></span>
+      <span id="total-count"></span>
+    </div>
+
+    <div id="results"></div>
+  </div>
+
+  <script src="species-search.js"></script>
+</body>
+</html>
