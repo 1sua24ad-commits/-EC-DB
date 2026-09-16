@@ -1,6 +1,7 @@
 import { openDb } from './db.js';
 import { matchSpecies } from './lib/speciesMatcher.js';
 import { normalizeName } from './lib/normalizeName.js';
+import { getTargetGenera } from './lib/targetGenera.js';
 import { sites } from './scrapers/siteRegistry.js';
 
 function capitalize(word) {
@@ -39,11 +40,6 @@ const upsertProductStmt = `
     last_checked_at = datetime('now'),
     raw_data        = excluded.raw_data
 `;
-
-function getTargetGenera(db) {
-  const rows = db.prepare('SELECT DISTINCT genus FROM species_master').all();
-  return new Set(rows.map((r) => r.genus.toLowerCase()));
-}
 
 function processSite(db, site, context) {
   const stmt = db.prepare(upsertProductStmt);
