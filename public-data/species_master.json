@@ -603,7 +603,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus confusus HAL 138 Rancho Mamulique (Hojase), NL",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-confusus-hal-138-rancho-mamulique-hojase-nl"
@@ -612,7 +612,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus confusus HAL 166 Mezquital VI., NL",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-confusus-hal-166-mezquital-vi-nl"
@@ -621,7 +621,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus confusus HAL 167 Mezquital - La Esperanza, NL",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-confusus-hal-167-mezquital-la-esperanza-nl"
@@ -630,7 +630,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus confusus LH 470 Aramberri, NL",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-confusus-lh-470-aramberri-nl"
@@ -648,7 +648,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus confusus MMR 19 Aramberri - La Escondida, NL - 10 seeds",
-        "price": 262,
+        "price": 263,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-confusus-mmr-19-aramberri-la-escondida-nl-10-seeds"
@@ -760,6 +760,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_33"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus furfuraceus v rostratus pp 807",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-furfuraceus-v-rostratus-pp-807.html"
       },
       {
         "siteId": "adblps",
@@ -1032,7 +1041,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus agavoides LH 912, 30 km S of Tula, Tam",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-agavoides-lh-912-30-km-s-of-tula-tam"
@@ -1041,7 +1050,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus agavoides LH 912, 30 km S of Tula, Tam - 10 seeds",
-        "price": 262,
+        "price": 263,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-agavoides-lh-912-30-km-s-of-tula-tam-10-seeds"
@@ -1059,7 +1068,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus agavoides RS 602 Tula, Tam",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-agavoides-rs-602-tula-tam"
@@ -1068,7 +1077,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus agavoides RS 602 Tula, Tam - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-agavoides-rs-602-tula-tam-10-seeds"
@@ -1086,7 +1095,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus agavoides VM 804 San Ignacio, SLP",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-agavoides-vm-804-san-ignacio-slp"
@@ -1095,7 +1104,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus agavoides VM 804 San Ignacio, SLP - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-agavoides-vm-804-san-ignacio-slp-10-seeds"
@@ -1104,7 +1113,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus agavoides VM 804 San Ignacio, SLP - 3 cm",
-        "price": 3747,
+        "price": 3752,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-agavoides-vm-804-san-ignacio-slp-3-cm"
@@ -1117,6 +1126,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_31"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus agavoides pp 208 tula mex",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-agavoides-pp-208-tula-mex.html"
       },
       {
         "siteId": "adblps",
@@ -1297,7 +1315,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus bravoanus PP 422 El Nuňez, SLP",
-        "price": 937,
+        "price": 938,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-bravoanus-pp-422-el-nunez-slp"
@@ -1333,7 +1351,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus bravoanus ssp. hintonii PP 352 El Herrero, SLP",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-bravoanus-ssp-hintonii-pp-352-el-herrero-slp"
@@ -1351,7 +1369,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus bravoanus ssp. hintonii, Las Palmas, SLP",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-bravoanus-ssp-hintonii-las-palmas-slp"
@@ -1692,7 +1710,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus PP 802 Coyame, Chih",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-pp-802-coyame-chih"
@@ -1701,7 +1719,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus PP 802 Coyame, Chih - 10 seeds",
-        "price": 262,
+        "price": 263,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-pp-802-coyame-chih-10-seeds"
@@ -1719,7 +1737,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus SB 403 Crockett Co, Tx",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-sb-403-crockett-co-tx"
@@ -1737,7 +1755,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus SB 413 Brewster Co, Tx",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-sb-413-brewster-co-tx"
@@ -1764,7 +1782,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus Sanderson, Tx - 10 seeds",
-        "price": 262,
+        "price": 263,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-sanderson-tx-10-seeds"
@@ -1773,7 +1791,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus VZD 341 Terlingua, Tx",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-vzd-341-terlingua-tx"
@@ -1878,6 +1896,24 @@
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-1894"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus fissuratus kmr 62 c",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-fissuratus-kmr-62-c.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus fissuratus kmr 92c ocampo",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-fissuratus-kmr-92c-ocampo.html"
+      },
+      {
         "siteId": "wonderful-cactus",
         "siteName": "Wonderful Cactus",
         "productName": "Ariocarpus fissuratus lloydii, Abrevadero, Coahuila, 10 seeds 2.5€",
@@ -1912,6 +1948,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_1886"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus fissuratus pp 353 cuatro cienegas",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-fissuratus-pp-353-cuatro-cienegas.html"
       },
       {
         "siteId": "wonderful-cactus",
@@ -1968,10 +2013,28 @@
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-1896"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus fissuratus ssp hintonii el herero slp",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-fissuratus-ssp-hintonii-el-herero-slp.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus fissuratus ssp hintonii las palmas slp",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-fissuratus-ssp-hintonii-las-palmas-slp.html"
+      },
+      {
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus ssp. lloydii HAL 104 Velardeňa, Dur",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-ssp-lloydii-hal-104-velardena-dur"
@@ -1998,7 +2061,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus ssp. lloydii VM 686 Sierra de Parras, Coah",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-ssp-lloydii-vm-686-sierra-de-parras-coah"
@@ -2025,7 +2088,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus ssp. lloydii VZD 423 San Felipe, Zac",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-ssp-lloydii-vzd-423-san-felipe-zac"
@@ -2043,7 +2106,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus ssp. lloydii VZD 570 Siele Zacates, Dur",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-ssp-lloydii-vzd-570-siele-zacates-dur"
@@ -2052,7 +2115,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus ssp. lloydii VZD 570 Siele Zacates, Dur - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-ssp-lloydii-vzd-570-siele-zacates-dur-10-seeds"
@@ -2061,7 +2124,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus fissuratus ssp. lloydii, La Pe, Coah",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fissuratus-ssp-lloydii-la-pe-coah"
@@ -2137,6 +2200,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_1887"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus fissuratus texas usa",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-fissuratus-texas-usa.html"
       },
       {
         "siteId": "malej-jarda",
@@ -2483,7 +2555,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus MMR 11.4 Las Palomas, Coah",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-mmr-11-4-las-palomas-coah"
@@ -2501,7 +2573,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus RS 273 Huizache, SLP",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-rs-273-huizache-slp"
@@ -2528,7 +2600,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus SB 100 El Pilar, Coah",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-sb-100-el-pilar-coah"
@@ -2546,7 +2618,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus SB 283 Dr. Arroyo, NL",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-sb-283-dr-arroyo-nl"
@@ -2564,7 +2636,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus VM 285 Entronque Huizache, SLP",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-vm-285-entronque-huizache-slp"
@@ -2573,7 +2645,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus VM 784 Cuencame, Dur",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-vm-784-cuencame-dur"
@@ -2582,7 +2654,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus VZD 1123 Canutillo, Zac",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-vzd-1123-canutillo-zac"
@@ -2600,7 +2672,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus VZD 1159 Parida, SLP",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-vzd-1159-parida-slp"
@@ -2618,7 +2690,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus VZD 1161 Parida, SLP",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-vzd-1161-parida-slp"
@@ -2636,7 +2708,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus VZD 1231 El Gallo, SLP",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-vzd-1231-el-gallo-slp"
@@ -2654,7 +2726,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus VZD 506 Matamoros, Zac",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-vzd-506-matamoros-zac"
@@ -2690,7 +2762,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus f. teyrensis VZD 419 La Palmilla, Zac - 10 seeds",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-var-teyrensis-vzd-419-la-palmilla-zac-10-seeds"
@@ -2732,6 +2804,15 @@
         "productUrl": "https://www.malej-jarda.cz/en/ariocarpus-kotschoubeyanus-macdowellii-rs-134-hipolito--coah--10-seeds/"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus kotschoubeyanus rs 273 huizache",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-kotschoubeyanus-rs-273-huizache.html"
+      },
+      {
         "siteId": "adblps",
         "siteName": "ADBLPS",
         "productName": "Ariocarpus kotschoubeyanus ssp. sladkovskyi > Rio Verde/SLP/Mexique [GK_1683/97] (ref 1893)",
@@ -2744,7 +2825,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus ssp. sladkovskyi PP 423 San Francisco, SLP",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-ssp-sladkovskyi-pp-423-san-francisco-slp"
@@ -2753,7 +2834,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus ssp. sladkovskyi PP 423 San Francisco, SLP - 10 seeds",
-        "price": 262,
+        "price": 263,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-ssp-sladkovskyi-pp-423-san-francisco-slp-10-seeds"
@@ -2762,7 +2843,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus ssp. sladkovskyi f. albiflorus Las Tablas, SLP",
-        "price": 937,
+        "price": 938,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-ssp-sladkovskyi-f-albiflorus-las-tablas-slp"
@@ -2784,6 +2865,15 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://www.malej-jarda.cz/en/ariocarpus-kotschoubeyanus-ssp-kotschoubeyanus-huizache--slp--10-seeds/"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus kotschoubeyanus v albiflorus pp 411 tula tam",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-kotschoubeyanus-v-albiflorus-pp-411-tula-tam.html"
       },
       {
         "siteId": "adblps",
@@ -2888,7 +2978,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus var. albiflorus Mamaleon, Tam",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-var-albiflorus-mamaleon-tam"
@@ -2906,7 +2996,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus var. albiflorus RS 603 Tula, Tam",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-var-albiflorus-rs-603-tula-tam"
@@ -2915,7 +3005,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus var. albiflorus RS 603 Tula, Tam - 10 seeds",
-        "price": 262,
+        "price": 263,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-var-albiflorus-rs-603-tula-tam-10-seeds"
@@ -2924,7 +3014,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus var. elephantidens PP 413 Vista Hermosa, Que",
-        "price": 937,
+        "price": 938,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-var-elephantidens-pp-413-vista-hermosa-que"
@@ -2942,7 +3032,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus var. elephantidens km 13 Mex 23 Cadereyta - Jalpan, Que",
-        "price": 937,
+        "price": 938,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-var-elephantidens-km-13-mex-23-cadereyta-jalpan-que"
@@ -2960,7 +3050,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus kotschoubeyanus var. teyrensis VZD 419 La Palmilla, Zac",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-kotschoubeyanus-var-teyrensis-vzd-419-la-palmilla-zac"
@@ -3363,7 +3453,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus \"magnificus\", Las Tablas, SLP (JB)",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-magnificus-las-tablas-slp-jb"
@@ -3372,7 +3462,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus GCG 10950 Miguel Hidalgo-Lucio Vazquez, Tam",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-gcg-10950-miguel-hidalgo-lucio-vazquez-tam"
@@ -3399,7 +3489,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus HAL 142 Castaňos, Coah",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-hal-142-castanos-coah"
@@ -3408,7 +3498,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus HAL 82 El Pedernal, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-hal-82-el-pedernal-slp"
@@ -3417,7 +3507,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus HAL 86 Cruces, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-hal-86-cruces-slp"
@@ -3462,7 +3552,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus SB 68 Coronel, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-sb-68-coronel-slp"
@@ -3513,6 +3603,33 @@
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-1960"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus retusus al 272 el refugio nl",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-retusus-al-272-el-refugio-nl.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus retusus al 339 castanos",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-retusus-al-339-castanos.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus retusus al 535 e el oregano slp",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-retusus-al-535-e-el-oregano-slp.html"
+      },
+      {
         "siteId": "malej-jarda",
         "siteName": "Zahradnictví Malej Jarda",
         "productName": "Ariocarpus retusus confusus PP 420 Aramberri, NL dark flowers  (10 SEEDS)",
@@ -3543,7 +3660,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus cv. Fourfingers fat - grafted",
-        "price": 2623,
+        "price": 2626,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-fourfinger-fat-grafted"
@@ -3552,7 +3669,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus cv. Maruibo x pectinatus - grafted",
-        "price": 2623,
+        "price": 2626,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-cv-maruibo-x-pectinatus-grafted"
@@ -3561,7 +3678,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus cv. Maruibo x pectinatus f. variegata - grafted",
-        "price": 2623,
+        "price": 2626,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-cv-maruibo-x-pectinatus-f-variegata-grafted"
@@ -3570,7 +3687,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus cv. Treefingers fat - grafted",
-        "price": 2623,
+        "price": 2626,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-cv-treefingers-fat-grafted"
@@ -3606,7 +3723,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus f. panarottoi HAL 180 La Verdolaga, Tam",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-f-panarottoi-hal-180-la-verdolaga-tam"
@@ -3615,7 +3732,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus f. pectinatus",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-f-pectinatus"
@@ -3624,7 +3741,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus f. pulchellus HAL 183 Cieneguilla, Tam",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-f-pulchellus-hal-183-cieneguilla-tam"
@@ -3633,7 +3750,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus f. pulchellus HAL 183 Cieneguilla, Tam - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-f-pulchellus-hal-183-cieneguilla-tam-10-seeds"
@@ -3693,6 +3810,33 @@
         "productUrl": "https://www.malej-jarda.cz/en/ariocarpus-retusus-furfuraceus--cuauhtemoc--coah-10-seeds/"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus retusus mesa garden form d",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-retusus-mesa-garden-form-d.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus retusus sb 240 matehuala slp",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-retusus-sb-240-matehuala-slp.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus retusus sb 310 cuesta la muralla coa",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-retusus-sb-310-cuesta-la-muralla-coa.html"
+      },
+      {
         "siteId": "malej-jarda",
         "siteName": "Zahradnictví Malej Jarda",
         "productName": "Ariocarpus retusus scapharostroides GCG 10944, 8 km S of Las Tablas, SLP  (10 SEEDS)",
@@ -3732,7 +3876,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus ssp. scapharostroides PP 232 Villa Juarez, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-ssp-scapharostroides-pp-232-villa-juarez-slp"
@@ -3741,7 +3885,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus ssp. scapharostroides PP 232 Villa Juarez, SLP - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-ssp-scapharostroides-pp-232-villa-juarez-slp-10-seeds"
@@ -3750,7 +3894,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus ssp. scapharostroides, Cd. Maiz, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-ssp-scapharostroides-cd-maiz-slp"
@@ -3903,7 +4047,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus var. scapharostroides PP 625 La Sabinitas, SLP - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-var-scapharostroides-pp-625-la-sabinitas-slp-10-seeds"
@@ -3936,6 +4080,15 @@
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-1950"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus retusus vm 320 cerros blancos nl",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-retusus-vm-320-cerros-blancos-nl.html"
+      },
+      {
         "siteId": "wonderful-cactus",
         "siteName": "Wonderful Cactus",
         "productName": "Ariocarpus retusus x fissuratus F2, very small form, 10 seeds 3.5€",
@@ -3957,7 +4110,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus, Los Arrieros, Tam",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-los-arrieros-tam"
@@ -3966,7 +4119,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus, Los Arrieros, Tam - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-los-arrieros-tam-10-seeds"
@@ -3975,7 +4128,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus retusus, Monclova, Coah",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-retusus-monclova-coah"
@@ -4080,7 +4233,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus scapharostrus RS 695 Rayones, NL",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-scapharostrus-rs-695-rayones-nl"
@@ -4098,7 +4251,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus scapharostrus VM 232 Rayones, NL (f. thick tubercles)",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-scapharostrus-f-thick-tubercles"
@@ -4107,7 +4260,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus scapharostrus VM 232 Rayones, NL (f. thick tubercles) - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-scapharostrus-f-thick-tubercles-10-seeds"
@@ -4329,7 +4482,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus trigonus HAL 136 Marin, NL",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-trigonus-hal-136-marin-nl"
@@ -4416,6 +4569,15 @@
         "productUrl": "https://www.malej-jarda.cz/en/ariocarpus-trigonus-elongatus-aff--kmr-032-san-vincente--tamp-10-seeds/"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus trigonus elongatus jaumave tam mex",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-trigonus-elongatus-jaumave-tam-mex.html"
+      },
+      {
         "siteId": "malej-jarda",
         "siteName": "Zahradnictví Malej Jarda",
         "productName": "Ariocarpus trigonus f. VM 613 NW of Palmillas, Tamp. rare southern form, selection  (10 SEEDS)",
@@ -4477,6 +4639,33 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://www.malej-jarda.cz/en/ariocarpus-trigonus-ssp-trigonus--10-seeds/"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus trigonus v elongatus pp 231",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-trigonus-v-elongatus-pp-231.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus trigonus v minor jaumave tam mex",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-trigonus-v-minor-jaumave-tam-mex.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus trigonus v minor kpp 427",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-trigonus-v-minor-kpp-427.html"
       },
       {
         "siteId": "wonderful-cactus",
@@ -4617,7 +4806,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Ariocarpus trigonus var. horacekii Jaumave, Tam",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/ariocarpus-trigonus-var-horacekii-jaumave-tam"
@@ -4639,6 +4828,15 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://www.malej-jarda.cz/en/ariocarpus-trigonus-var--minor--jaumave--tamp-10-seeds/"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Ariocarpus trigonus vm 192 est calles",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/ariocarpus/ariocarpus-trigonus-vm-192-est-calles.html"
       },
       {
         "siteId": "wonderful-cactus",
@@ -5204,6 +5402,15 @@
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-2004"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Astrophytum asterias cv superkabuto",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/astrophytum/astrophytum-asterias-cv-superkabuto.html"
+      },
+      {
         "siteId": "kaktusy-webzdarma",
         "siteName": "Kaktusy webzdarma",
         "productName": "Astrophytum asterias cv. Flowers (Akabana, Syowa, Syowa Akabana)",
@@ -5216,7 +5423,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Astrophytum asterias cv. HANAZONO STAR",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/astrophytum-asterias-cv-hanazono-star"
@@ -5252,7 +5459,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Astrophytum asterias cv. SUPER KABUTO",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/astrophytum-asterias-cv-superkabuto"
@@ -5274,6 +5481,15 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://www.malej-jarda.cz/en/astrophytum-asterias-f-orange-yellow-red-flowers--10-seeds-/"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Astrophytum asterias rs 1297 lucio blanco tam",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/astrophytum/astrophytum-asterias-rs-1297-lucio-blanco-tam.html"
       },
       {
         "siteId": "adblps",
@@ -5364,7 +5580,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Astrophytum caput-medusae",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/astrophytum-caput-medusae"
@@ -5382,7 +5598,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Astrophytum caput-medusae - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/astrophytum-caput-medusae-10-seeds"
@@ -5737,7 +5953,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri"
@@ -5746,7 +5962,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri GCG 10002 Sierra Animas, NL - 10 seeds",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-gcg-10002-sierra-animas-nl-10-seeds"
@@ -5755,7 +5971,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri GCG 12629 Rancho Boquillas, Sra. Juculianes, NL",
-        "price": 2623,
+        "price": 2626,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-gcg-12629-rancho-boquillas-sra-juculianes-nl"
@@ -5764,7 +5980,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri GCG 12629 Rancho Boquillas, Sra. Juculianes, NL - 1 cm grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-gcg-12629-rancho-boquillas-sra-juculianes-nl-1-cm-grafted"
@@ -5773,7 +5989,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri GCG 12629 Rancho de Boquillas, NL - 10 seeds",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-gcg-12629-rancho-de-boquillas-nl-10-seeds"
@@ -5800,7 +6016,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri RS 341 Rayones, NL",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-rs-341-rayones-nl"
@@ -5818,7 +6034,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri VM 410 - grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-vzd-410-grafted"
@@ -5827,7 +6043,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri VM 410 El Poblado, NL - seedlings",
-        "price": 2623,
+        "price": 2626,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-vm-410-seedlings"
@@ -5836,7 +6052,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri VM 619 Canyon Metates, NL",
-        "price": 2623,
+        "price": 2626,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-vm-619-canyon-metates-nl"
@@ -5845,7 +6061,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri VM 619 Canyon Metates, NL - 1,5 cm",
-        "price": 4122,
+        "price": 4127,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-vm-619-canyon-metates-nl-1-5-cm"
@@ -5854,7 +6070,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri VZD 1513 Rancho Ciprián Bajo, NL - 2 cm grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-vzd-1513-rancho-ciprian-bajo-nl-2cm-grafted"
@@ -5899,7 +6115,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Aztekium ritteri f. white flower - 2 cm grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/aztekium-ritteri-f-white-flower-2cm-grafted"
@@ -6588,6 +6804,15 @@
         "productUrl": "https://kaktusy.webzdarma.cz/wp-content/uploads/2023/07/nabidka-jaro-28_03_2026.xlsx#SN1251"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Coryphantha werdermannii",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/coryphantha/coryphantha-werdermannii.html"
+      },
+      {
         "siteId": "malej-jarda",
         "siteName": "Zahradnictví Malej Jarda",
         "productName": "Coryphantha werdermannii Lau 1164 Las Coloradas, Coah  (10 SEEDS)",
@@ -6847,6 +7072,24 @@
         "productUrl": "https://www.kakteen.cz/discocactus-bolivianus-lh-2416/"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus boomianus",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-boomianus.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus cephaliociculosus go 100 monte alegre de goias goias",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-cephaliociculosus-go-100-monte-alegre-de-goias-goias.html"
+      },
+      {
         "siteId": "wonderful-cactus",
         "siteName": "Wonderful Cactus",
         "productName": "Discocactus flavispinus (heptacanthus), Goiás, 20 seeds 5€",
@@ -6854,6 +7097,15 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-2381"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus griseus go 264 joao pimheiromg",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-griseus-go-264-joao-pimheiromg.html"
       },
       {
         "siteId": "wonderful-cactus",
@@ -6883,6 +7135,24 @@
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-2391"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus petr halfari go 243 juazeiro ba",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-petr-halfari-go-243-juazeiro-ba.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus prominentigibbus go 837 formosa de araguiaia tocanti",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-prominentigibbus-go-837-formosa-de-araguiaia-tocanti.html"
+      },
+      {
         "siteId": "wonderful-cactus",
         "siteName": "Wonderful Cactus",
         "productName": "Discocactus psicibarbarus GO 353, Nova Aurora, Minas Gerais, Brazil, 10 seeds 3€",
@@ -6901,6 +7171,15 @@
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-2397"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus semicampaniflorus go 555 coxim mato grosso do sul",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-semicampaniflorus-go-555-coxim-mato-grosso-do-sul.html"
+      },
+      {
         "siteId": "adblps",
         "siteName": "ADBLPS",
         "productName": "Discocactus spinosior [SCA_DIC_17/20] (ref 12251)",
@@ -6908,6 +7187,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_12251"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus squambibaccatus go 838 jau de tocantins tocantins",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-squambibaccatus-go-838-jau-de-tocantins-tocantins.html"
       }
     ]
   },
@@ -6998,6 +7286,15 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-2398"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus subviridigriseus go 163 rodeador ba",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-subviridigriseus-go-163-rodeador-ba.html"
       }
     ]
   },
@@ -7071,6 +7368,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://www.kaktus-koehres.de/shop/product_info.php?products_id=2154"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus catingicola go 776 serra das ararasmg",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-catingicola-go-776-serra-das-ararasmg.html"
       }
     ]
   },
@@ -7084,7 +7390,17 @@
     "iucnCategory": null,
     "source": "CITES",
     "synonyms": [],
-    "listings": []
+    "listings": [
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus diersianus",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-diersianus.html"
+      }
+    ]
   },
   {
     "id": 1340,
@@ -7190,6 +7506,24 @@
         "productUrl": "https://www.kaktus-koehres.de/shop/product_info.php?products_id=2149"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus heptacanthus go 543 barra de grcas mato grosso",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-heptacanthus-go-543-barra-de-grcas-mato-grosso.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus heptacanthus ssp goianus go 270 alta paraiso de goia",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-heptacanthus-ssp-goianus-go-270-alta-paraiso-de-goia.html"
+      },
+      {
         "siteId": "wonderful-cactus",
         "siteName": "Wonderful Cactus",
         "productName": "Discocactus heptacanthus, Mato Grosso, 20 seeds 5€",
@@ -7277,6 +7611,15 @@
         "productUrl": "https://www.rarecactitop.com/en/1-seeds-uebelmannia--etc-114/discocactus-horstii-7-seeds-753.html"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Discocactus horstii",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/discocactus/discocactus-horstii.html"
+      },
+      {
         "siteId": "kakteen-cz",
         "siteName": "Kakteen.cz",
         "productName": "Discocactus horstii MH 611",
@@ -7289,7 +7632,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Discocactus horstii MH 611 Minas Gerais Grão Mogol, Brazil - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/discocactus-horstii-mh-611-minas-gerais-gr-o-mogol-brazil-10-seeds"
@@ -7611,7 +7954,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Echinocereus ferreirianus spp. lindsayi f. gold spines - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/echinocereus-ferreirianus-spp-lindsayi-f-gold-spines-10-seeds"
@@ -7620,7 +7963,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Echinocereus ferreirianus spp. lindsayi f. gold spines - grafted (1 clone)",
-        "price": 4496,
+        "price": 4502,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/echinocereus-ferreirianus-ssp-lindsayi-f-gold-spines-grafted"
@@ -7629,7 +7972,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Echinocereus ferreirianus spp. lindsayi f. gold spines - seedlings",
-        "price": 937,
+        "price": 938,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/echinocereus-ferreirianus-spp-lindsayi-f-gold-spines-seedlings"
@@ -7683,7 +8026,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Echinocereus lindsayi MZ 1136 Santa Ines, Jaraguay, BC - grafted (1 clone)",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/echinocereus-lindsayi-mz-1136-santa-ines-jaraguay-bc-grafted-1-clone"
@@ -7804,6 +8147,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_14552"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Eriosyce chilensis v albidiflora rs 2459 pichidangui chile",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/eriosyce/eriosyce-chilensis-v-albidiflora-rs-2459-pichidangui-chile.html"
       },
       {
         "siteId": "adblps",
@@ -7928,7 +8280,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Escobaria minima SB 423 Marathon, Tx",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/escobaria-minima-sb-423-marathon-tx"
@@ -7937,10 +8289,19 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Escobaria minima SB 423 Marathon, Tx - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/escobaria-minima-sb-423-marathon-tx-10-seeds"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Escobaria minima sb 423 brewster co tx",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/escobaria/escobaria-minima-sb-423-brewster-co-tx.html"
       }
     ]
   },
@@ -8116,7 +8477,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Escobaria sneedii ssp. leei SB 397 Eddy Co, NM",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/escobaria-leei-sb-397-eddy-co-nm"
@@ -8446,6 +8807,33 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_14306"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocalycium neuhuberi gn 77356",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocalycium/gymnocalycium-neuhuberi-gn-77356.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocalycium neuhuberi gn 89 77363",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocalycium/gymnocalycium-neuhuberi-gn-89-77363.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocalycium neuhuberi lb 289",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocalycium/gymnocalycium-neuhuberi-lb-289.html"
       }
     ]
   },
@@ -8692,6 +9080,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_14548"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Haageocereus tenuis hnso 50",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/haageocereus/haageocereus-tenuis-hnso-50.html"
       }
     ]
   },
@@ -8813,6 +9210,15 @@
     "synonyms": [],
     "listings": [
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Mammillaria carmenae",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/mammillaria/mammillaria-carmenae.html"
+      },
+      {
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria carmenae L 1223 La Reja, Tam - 10 seeds",
@@ -8878,6 +9284,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_931"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Mammillaria duwei n canada de moreno",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/mammillaria/mammillaria-duwei-n-canada-de-moreno.html"
       }
     ]
   },
@@ -8918,7 +9333,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria herrerae MZ 572 Sierra del Doctor, Que",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-herrerae"
@@ -8951,10 +9366,28 @@
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_705"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Mammillaria herrerae lau 711 vista hermosa",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/mammillaria/mammillaria-herrerae-lau-711-vista-hermosa.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Mammillaria herrerae v albiflora mineral pozos mex",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/mammillaria/mammillaria-herrerae-v-albiflora-mineral-pozos-mex.html"
+      },
+      {
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria herrerae v. albiflora MK 2.4 S of Pozos, Gto",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-herrerae-var-albiflora-pozos-gto"
@@ -8994,7 +9427,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria humboldtii PP 206 Metztitlan, Hid",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-humboldtii-pp-206-metztitlan-hid"
@@ -9003,7 +9436,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria humboldtii RH 132 Gilo, Hid",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-humboldtii-rh-132-gilo-hid"
@@ -9065,6 +9498,15 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://www.malej-jarda.cz/en/mammillaria-laui-subducta-lau-1222-mina-asbestos--cd-victoria--tamp-10-seeds/"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Mammillaria laui v dasyacanthus",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/mammillaria/mammillaria-laui-v-dasyacanthus.html"
       },
       {
         "siteId": "adblps",
@@ -9212,7 +9654,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria pectinifera PP 663 Puebla, Pue",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-pectinifera-pp-663-puebla-pue"
@@ -9234,6 +9676,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_13507"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Mammillaria pectinifera tecamachalco mex",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/mammillaria/mammillaria-pectinifera-tecamachalco-mex.html"
       },
       {
         "siteId": "adblps",
@@ -9266,7 +9717,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria solisioides L 671 Petlalcingo, Pue",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-solisioides-l-671-petlalcingo-pue"
@@ -9436,7 +9887,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria sanchez-mejoradae San Rafael, NL",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-sanchez-mejoradae"
@@ -9445,7 +9896,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria sanchez-mejoradae San Rafael, NL - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-sanchez-mejoradae-10-seeds"
@@ -9543,7 +9994,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria theresae MK 173.486 Coneto Pass, Dur",
-        "price": 937,
+        "price": 938,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-theresae"
@@ -9552,7 +10003,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria theresae MK 173.486 Coneto Pass, Dur - 10 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-theresae-coneto-pass-dur-10-seeds"
@@ -9588,7 +10039,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria theresae f. minima GCG 12504 Francisco Javier de Lajas, Dur",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-theresae-f-minima-gcg-12504-francisco-javier-de-lajas-dur"
@@ -9597,7 +10048,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Mammillaria theresae f. minima GCG 12504 Francisco Javier de Lajas, Dur - 10 seeds",
-        "price": 937,
+        "price": 938,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/mammillaria-theresae-f-minima-gcg-12504-francisco-javier-de-lajas-dur-10-seeds"
@@ -9624,6 +10075,15 @@
     "source": "IUCN",
     "synonyms": [],
     "listings": [
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Mammillaria zeilmanniana",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/mammillaria/mammillaria-zeilmanniana.html"
+      },
       {
         "siteId": "adblps",
         "siteName": "ADBLPS",
@@ -9659,6 +10119,24 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_961"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Mammillaria zeilmanniana albiflora",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/mammillaria/mammillaria-zeilmanniana-albiflora.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Mammillaria zeilmanniana precox",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/mammillaria/mammillaria-zeilmanniana-precox.html"
       }
     ]
   },
@@ -9904,6 +10382,24 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://www.kaktus-koehres.de/shop/product_info.php?products_id=1134"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Melocactus braunii br 1730",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/melocactus/melocactus-braunii-br-1730.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Melocactus braunii go 242 itapicuru ba",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/melocactus/melocactus-braunii-go-242-itapicuru-ba.html"
       }
     ]
   },
@@ -10011,6 +10507,24 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-2837"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Melocactus conoideus go 249 vitoria de conquista ba",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/melocactus/melocactus-conoideus-go-249-vitoria-de-conquista-ba.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Melocactus conoideus go 363 itinga mg",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/melocactus/melocactus-conoideus-go-363-itinga-mg.html"
       }
     ]
   },
@@ -10075,6 +10589,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://kaktusy.webzdarma.cz/wp-content/uploads/2023/07/nabidka-jaro-28_03_2026.xlsx#D0156"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Melocactus glaucescens longispina go 146 olhos de agua de fagund",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/melocactus/melocactus-glaucescens-longispina-go-146-olhos-de-agua-de-fagund.html"
       }
     ]
   },
@@ -10109,6 +10632,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://www.kaktus-koehres.de/shop/product_info.php?products_id=3684"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Micranthocereus streckeri",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/micranthocereus/micranthocereus-streckeri.html"
       }
     ]
   },
@@ -10245,6 +10777,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_2413"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Obregonia denegrii pp 430 san vincente tam",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/obregonia/obregonia-denegrii-pp-430-san-vincente-tam.html"
       }
     ]
   },
@@ -10459,6 +11000,33 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_14416"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Parodia nivosa me 113",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/parodia/parodia-nivosa-me-113.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Parodia nivosa me 114 el candado q del toro salta arg",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/parodia/parodia-nivosa-me-114-el-candado-q-del-toro-salta-arg.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Parodia nivosa mn 108 golgota 2500 2800m arg",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/parodia/parodia-nivosa-mn-108-golgota-2500-2800m-arg.html"
       }
     ]
   },
@@ -10544,7 +11112,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus bradyi PJR 475 North Canyon, Az - 10 seeds",
-        "price": 824,
+        "price": 825,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-bradyi-pjr-475-north-canyon-az-10-seeds"
@@ -10553,7 +11121,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus bradyi PJR 475 North Canyon, Az - grafted (1 clone)",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-bradyi-pjr-475-north-canyon-az-grafted"
@@ -10562,7 +11130,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus bradyi PJR 539 Marble Canyon, Az- grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-bradyi-pjr-539-marble-canyon-az-grafted"
@@ -10580,7 +11148,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus bradyi SB 470 Marble Canyon, Az - 10 seeds",
-        "price": 824,
+        "price": 825,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-bradyi-sb-470-marble-canyon-az-10-seeds"
@@ -10589,7 +11157,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus bradyi SB 470 Marble Canyon, Az - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-bradyi-sb-470-marble-canyon-az-grafted"
@@ -10652,7 +11220,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus despainii PJR 528 Wedge Overlook, Ut - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-despainii-pjr-528-wedge-overlook-ut-10-seeds"
@@ -10661,7 +11229,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus despainii PJR 528 Wedge Overlook, Ut - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-despainii-pjr-528-wedge-overlook-ut-grafted"
@@ -10670,7 +11238,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus despainii PJR 529 Mesa Bute, Emery Co, Ut - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-despainii-pjr-529-mesa-bute-emery-co-ut-10-seeds"
@@ -10679,7 +11247,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus despainii PJR 529 Mesa Bute, Emery Co, Ut - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-despainii-pjr-529-mesa-bute-emery-co-ut-grafted"
@@ -10697,7 +11265,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus despainii SB 989 Emery Co, Ut - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-despainii-sb-989-emory-co-ut-10-seeds"
@@ -10706,7 +11274,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus despainii SB 989 Emery Co, Ut - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-despainii-sb-989-emery-co-ut-grafted"
@@ -10831,7 +11399,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus knowltonii SB 304 San Juan Co, NM",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-knowltonii-sb-304-san-juan-co-nm"
@@ -10889,7 +11457,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus paradinei FH 052.0 Kaibab Plateau, Az - 10 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-paradinei-fh-052-0-kaibab-plateau-az-10-seeds"
@@ -10898,7 +11466,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus paradinei FH 052.0 Kaibab Plateau, Az - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-paradinei-fh-052-0-kaibab-plateau-az-grafted"
@@ -10907,7 +11475,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus paradinei FH 052.5 Kaibab Plateau, Az - 10 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-paradinei-fh-052-5-kaibab-plateau-az-10-seeds"
@@ -10916,7 +11484,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus paradinei FH 052.5 Kaibab Plateau, Az - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-paradinei-fh-052-5-kaibab-plateau-az-grafted"
@@ -10925,7 +11493,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus paradinei PJR 537 Kaibab Plateau, Az - 10 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-paradinei-pjr-537-kaibab-plateau-az-10-seeds"
@@ -10934,7 +11502,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus paradinei PJR 537 Kaibab Plateau, Az - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-paradinei-pjr-537-kaibab-plateau-az-grafted"
@@ -10943,7 +11511,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus paradinei RP 80 Houserock Valley, Az - 10 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-paradinei-rp-80-houserock-valley-az-10-seeds"
@@ -10952,7 +11520,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus paradinei RP 80 Houserock Valley, Az - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-paradinei-rp-80-houserock-valley-az-grafted"
@@ -10961,7 +11529,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus paradinei RP 80 Houserock Valley, Az - seedlings",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-paradinei-rp-80-houserock-valley-az-seedlings"
@@ -11062,7 +11630,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana FH 053.1 Marcou Mesa, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-fh-053-1-marcou-mesa-az-10-seeds"
@@ -11071,7 +11639,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana FH 053.1 Marcou Mesa, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-fh-053-1-marcou-mesa-az-grafted"
@@ -11080,7 +11648,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana FH 053.6 Central Arizona - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-fh-053-6-central-arizona-10-seeds"
@@ -11089,7 +11657,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana FH 053.6 Central Arizona - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-fh-053-6-central-arizona-grafted"
@@ -11098,7 +11666,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana FH 053.7 Colorado River, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-fh-053-7-colorado-river-az-10-seeds"
@@ -11107,7 +11675,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana FH 053.7 Colorado River, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-fh-053-7-colorado-river-az-grafted"
@@ -11116,7 +11684,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana Holbrook (Golfplatz), Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-holbrook-golfplatz-az-10-seeds"
@@ -11125,7 +11693,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana Holbrook, Golfplatz, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-holbrook-golfplatz-az-grafted"
@@ -11143,7 +11711,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana PJR 521 Joseph City, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-pjr-521-joseph-city-az-10-seeds"
@@ -11152,7 +11720,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana PJR 521 Joseph City, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-pjr-521-joseph-city-az-grafted"
@@ -11161,7 +11729,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana SB 571 Navajo Co, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-sb-571-navajo-co-az-10-seeds"
@@ -11170,7 +11738,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana SB 571 Navajo Co, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-sb-571-navajo-co-az-grafted"
@@ -11197,7 +11765,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana f. maia (DC) s from Cameron, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-f-maia-dc-s-from-cameron-az-10-seeds"
@@ -11206,7 +11774,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana f. maia JB 6 w from Cameron, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-f-maia-jb-6-w-cameron-az-10-seeds"
@@ -11215,7 +11783,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana f. maia JB 6 w from Cameron, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-f-maia-jb-6-w-cameron-az-grafted"
@@ -11224,7 +11792,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana f. maia Lz 369 s Grand Canyon, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-f-maia-lz-369-s-grand-canyon-az-10-seeds"
@@ -11233,7 +11801,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana f. maia Lz 369 s Grand Canyon, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-f-maia-lz-369-s-grand-canyon-az-grafted"
@@ -11242,7 +11810,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana f. maia SB 469 Gray Mt, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-f-maia-sb-469-gray-mts-az-10-seeds"
@@ -11251,7 +11819,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana f. maia SB 469 Gray Mt, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-f-maia-sb-469-gray-mt-az-grafted"
@@ -11260,7 +11828,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana f. maia, s from Cameron, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-f-maia-s-from-cameron-az-grafted"
@@ -11305,7 +11873,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii Bedrock Canyon, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-bedrock-canyon-az-10-seeds"
@@ -11314,7 +11882,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii Bedrock Canyon, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-bedrock-canyon-az-grafted"
@@ -11323,7 +11891,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii Bedrock Canyon, Az - short spined selection - 10 seeds",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-bedrock-canyon-az-short-spined-selection-10-seeds"
@@ -11332,7 +11900,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii Bedrock Canyon, Az - short spined selection - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-bedrock-canyon-az-short-spined-selection-grafted"
@@ -11341,7 +11909,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii Cedar Ridge, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-cedar-ridge-az-10-seeds"
@@ -11350,7 +11918,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii Cedar Ridge, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-cedar-ridge-az-grafted"
@@ -11359,7 +11927,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii FH 051.0 Hurricane Cliffs, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-fh-051-0-hurricane-cliffs-az-10-seeds"
@@ -11368,7 +11936,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii FH 051.0 Hurricane Cliffs, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-fh-051-0-hurricane-cliffs-az-grafted"
@@ -11377,7 +11945,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii FH 051.2 Wolf Hole, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-fh-051-2-wolf-hole-az-10-seeds"
@@ -11386,7 +11954,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii FH 051.2 Wolf Hole, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-fh-051-2-wolf-hole-az-grafted"
@@ -11395,7 +11963,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii Navajo Trail, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-navajo-trail-az-10-seeds"
@@ -11404,7 +11972,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii Navajo Trail, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-navajo-trail-az-grafted"
@@ -11413,7 +11981,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii PJR 458 Navajo Trail Road, Mohave Co, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-pjr-458-navajo-trail-road-mohave-co-az-10-seeds"
@@ -11422,7 +11990,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii PJR 458 Navajo Trail Road, Mohave Co, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-pjr-458-navajo-trail-road-mohave-co-az-grafted"
@@ -11431,7 +11999,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii PJR 459 Mt Trumbull Rd, Az  - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-pjr-459-mt-trumbull-rd-az-10-seeds"
@@ -11440,7 +12008,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii PJR 459 Mt Trumbull Rd, Az  - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-pjr-459-mt-trumbull-rd-az-grafted"
@@ -11449,7 +12017,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii PJR 541 Salt Trail Canyon, Coconino Co, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-pjr-541-salt-trail-canyon-coconino-co-az-10-seeds"
@@ -11458,7 +12026,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii PJR 541 Salt Trail Canyon, Coconino Co, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-pjr-541-salt-trail-canyon-coconino-co-az"
@@ -11467,7 +12035,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii PJR 570 Marble Canyon, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-pjr-570-marble-canyon-az-10seeds"
@@ -11476,7 +12044,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii PJR 570 Marble Canyon, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-pjr-570-marble-canyon-az-grafted"
@@ -11485,7 +12053,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii RP 145 Wolf Hole, Mohave Co, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-rp-145-mohave-co-az-10-seeds"
@@ -11494,7 +12062,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii RP 145 Wolf Hole, Mohave Co, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-rp-145-wolf-hole-az-grafted"
@@ -11512,7 +12080,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii SB 1848 Hurricane Cliffs, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-sb-1848-hurricane-cliffs-az-grafted"
@@ -11521,7 +12089,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii SB 468 Fredonia, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-sb-468-fredonia-az-10-seeds"
@@ -11530,7 +12098,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii SB 468 Fredonia, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-sb-468-fredonia-az-grafted"
@@ -11539,7 +12107,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii SB 903 Houserock Valley, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-sb-903-houserock-valley-az-10-seeds"
@@ -11548,7 +12116,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii SB 903 Houserock Valley, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-sb-903-houserock-valley-az-grafted"
@@ -11557,7 +12125,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii SN 023/1 Mt Trumbull Rd, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-sn-023-1-mt-trumbull-rd-az-10-seeds"
@@ -11566,7 +12134,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana ssp. fickeisenii ŠN 023/1 Mt Trumbull Rd, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-ssp-fickeisenii-sn-023-1-mt-trumbull-rd-az-grafted"
@@ -11584,7 +12152,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii JB 2 s Grand Canyon, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-jb-2-s-grand-canyon-az-10-seeds"
@@ -11593,7 +12161,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii JB 2 s from Grand Canyon, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-jb-2-s-from-grand-canyon-az-grafted"
@@ -11602,7 +12170,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii PJR 504 Cataract Canyon, Coconino Co, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-pjr-504-cataract-canyon-coconino-co-az-10-seeds"
@@ -11611,7 +12179,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii PJR 504 Cataract Canyon, Coconino Co, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-pjr-504-cataract-canyon-coconino-co-az-grafted"
@@ -11620,7 +12188,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii PJR 542 Little Harpo Canyon, Coconino Co, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-pjr-542-little-harpo-canyon-coconino-co-az"
@@ -11629,7 +12197,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii PJR 543 Redlands Ranch, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-pjr-543-redlands-ranch-az-grafted"
@@ -11638,7 +12206,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii RP 116 Coconino Co, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-rp-116-coconino-co-az-10-seeds"
@@ -11647,7 +12215,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii RP 116 Coconino Co, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-rp-116-coconino-co-az-grafted"
@@ -11656,7 +12224,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii RP 117 Coconino Co, Az - 10 seeds",
-        "price": 1199,
+        "price": 1201,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-rp-117-coconino-co-az-10-seeds"
@@ -11665,7 +12233,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii RP 117 Coconino Co, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-rp-117-coconino-co-az-grafted"
@@ -11674,7 +12242,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Navajoa peeblesiana v. menzelii SN 098/1 Cataract Canyon, Coconino Co, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/navajoa-peeblesiana-v-menzelii-sb-098-1-cataract-canyon-coconino-co-az-grafted"
@@ -11843,7 +12411,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus sileri FH 0203 Washington Co, Ut (white Utahia) - grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-sileri-fh-0203-washington-co-ut-white-utahia-grafted"
@@ -11852,7 +12420,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus sileri FH 0203 Washington Co, Ut - 10 seeds",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-sileri-fh-0203-washington-co-ut-10-seeds"
@@ -11861,7 +12429,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus sileri PJR 454 s of St. George, Ut - grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-sileri-pjr-454-s-of-st-george-ut-grafted"
@@ -11870,7 +12438,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus sileri PJR 462 s. of Hurricane, Ut - grafted (1 clone)",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-sileri-pjr462-s-of-hurricane-ut-grafted"
@@ -11879,7 +12447,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus sileri RP 118 Antelope Valley, Az - 10 seeds",
-        "price": 2061,
+        "price": 2063,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-sileri-rp-118-antelope-valley-az-10-seeds"
@@ -11888,7 +12456,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus sileri RP 118 Antelope Valley, Az - grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-sileri-rp-118-antelope-valley-az-grafted"
@@ -11897,7 +12465,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus sileri SB 1872 St. George, Tue - 10 seeds",
-        "price": 2061,
+        "price": 2063,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-sileri-sb-1872-st-george-ut-10-seeds"
@@ -11906,7 +12474,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus sileri SB 1872 St. George, Ut - grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-sileri-sb-1872-st-george-ut-grafted"
@@ -11915,7 +12483,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus sileri SB 473 Fredonia, Az - 10 seeds",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-sileri-sb-473-fredonia-az-10-seeds"
@@ -11924,7 +12492,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pediocactus sileri SB 473 Fredonia, Az - grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pediocactus-sileri-sb-473-fredonia-az-grafted"
@@ -12117,7 +12685,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pelecyphora aselliformis LH 1042 Moctezuma, SLP",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pelecyphora-aselliformis-lh-1042-moctezuma-slp"
@@ -12126,7 +12694,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pelecyphora aselliformis LH 1042 Moctezuma, SLP - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pelecyphora-aselliformis-lh-1042-moctezuma-slp-10-seeds"
@@ -12135,7 +12703,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pelecyphora aselliformis RS 550 Ventura, SLP",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pelecyphora-aselliformis-rs-550-ventura-slp"
@@ -12162,7 +12730,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pelecyphora aselliformis f. cristata - grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pelecyphora-aselliformis-f-cristata-grafted"
@@ -12213,7 +12781,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pelecyphora strobiliformis LH 391 La Escondida, NL",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pelecyphora-strobiliformis-la-escondida-nl"
@@ -12231,7 +12799,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pelecyphora strobiliformis LH 926 Concepcion del Oro, Zac",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pelecyphora-strobiliformis-lh-926-concepcion-del-oro-zac"
@@ -12240,7 +12808,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pelecyphora strobiliformis LH 926 Concepcion del Oro, Zac - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/pelecyphora-strobiliformis-lh-926-concepcion-del-oro-zac-10-seeds"
@@ -12249,7 +12817,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pelecyphora strobiliformis PP 184 Dr. Arroyo, NL",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pelecyphora-strobiliformis-dr-arroyo-nl"
@@ -12267,7 +12835,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pelecyphora strobiliformis VZD 309 SE Ignacio Zaragoza, SLP",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pelecyphora-strobiliformis-vzd-309-se-ignacio-zaragoza-slp-seedlings"
@@ -12276,7 +12844,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Pelecyphora strobiliformis VZD 309 SE Ignacio Zaragoza, SLP - 10 seeds",
-        "price": 674,
+        "price": 675,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/pelecyphora-strobiliformis-vzd-309-se-ignacio-zaragoza-slp-10-seeds"
@@ -12547,7 +13115,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus blainei SB 1015 Lincoln Co, Nv  - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-blainei-sb-1015-lincoln-co-nv-10-seeds"
@@ -12556,7 +13124,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus blainei SB 1015 Lincoln Co, Nv - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-blainei-sb-1015-lincoln-co-nv-grafted"
@@ -12565,7 +13133,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus blainei SB 1540 Nye Co, Nv  - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-blainei-sb-1540-nye-co-nv-10-seeds"
@@ -12574,7 +13142,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus blainei SB 1540 Nye Co, Nv - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-blainei-sb-1540-currant-nv-grafted"
@@ -12583,7 +13151,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus blainei SB 1540 Nye Co, Nv - white selection - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-blainei-sb-1540-nye-co-nv-white-selection-grafted"
@@ -12651,7 +13219,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus brevispinus (wetlandicus ssp. ilseae) RP 25 Duchesne Co, Ut - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-brevispinus-wetlandicus-ssp-ilseae-rp-25-duchesne-co-ut-grafted"
@@ -12669,7 +13237,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus brevispinus (wetlandicus ssp. ilseae) SB 1743 Duchesne Co, Ut - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-brevispinus-wetlandicus-ssp-ilseae-sb-1743-duchesne-co-ut-grafted"
@@ -12735,7 +13303,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus cloverae ssp. brackii SB 1011 Bloomfield, NM - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-cloverae-ssp-brackii-sb-1011-bloomfield-nm-grafted"
@@ -12771,7 +13339,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus whipplei (pygmaeus) Joseph City, Az - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-whipplei-pygmaeus-joseph-city-az-grafted"
@@ -12780,7 +13348,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus whipplei ssp. busekii SB 1086 Houserock Valley, Az - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-whipplei-ssp-busekii-sb-1086-houserock-valley-az-10-seeds"
@@ -12789,7 +13357,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus whipplei ssp. busekii SB 1086 Houserock Valley, Az - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-whipplei-ssp-busekii-sb-1086-houserock-valley-az-grafted"
@@ -12820,7 +13388,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Echinomastus acunensis HK 304 central Arizona - grafted (1 clone)",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/echinomastus-acunensis-hk-304-central-arizona-grafted"
@@ -12856,7 +13424,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Echinomastus erectocentrus SB 462 Pima Co, Az - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/echinomastus-erectocentrus-sb-462-pima-co-az-grafted"
@@ -12865,7 +13433,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Echinomastus erectocentrus ssp. acunensis SB 146 Sonoyta, Son - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/echinomastus-erectocentrus-ssp-acunensis-sb-146-sonoyta-son-grafted"
@@ -13096,6 +13664,42 @@
         "productUrl": "https://kaktusy.webzdarma.cz/wp-content/uploads/2023/07/nabidka-jaro-28_03_2026.xlsx#SV1987"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus beguinii la rinconada",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-beguinii-la-rinconada.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus beguinii lx 176",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-beguinii-lx-176.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus beguinii novillos",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-beguinii-novillos.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus beguinii sb 308 ramos arispe",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-beguinii-sb-308-ramos-arispe.html"
+      },
+      {
         "siteId": "kaktusy-webzdarma",
         "siteName": "Kaktusy webzdarma",
         "productName": "Gymnocactus beguinii ssp. senilis",
@@ -13103,6 +13707,33 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://kaktusy.webzdarma.cz/wp-content/uploads/2023/07/nabidka-jaro-28_03_2026.xlsx#SV1706"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus beguinii v hintoniorum san ignacio de texas",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-beguinii-v-hintoniorum-san-ignacio-de-texas.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus beguinii v senilis rs 362 arteaga coah mex",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-beguinii-v-senilis-rs-362-arteaga-coah-mex.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus beguinii v smithii rs 89 huasteca canyon nl",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-beguinii-v-smithii-rs-89-huasteca-canyon-nl.html"
       }
     ]
   },
@@ -13143,6 +13774,15 @@
         "productUrl": "https://kaktusy.webzdarma.cz/wp-content/uploads/2023/07/nabidka-jaro-28_03_2026.xlsx#SN0023"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Sclerocactus glaucus",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/sclerocactus/sclerocactus-glaucus.html"
+      },
+      {
         "siteId": "malej-jarda",
         "siteName": "Zahradnictví Malej Jarda",
         "productName": "Sclerocactus glaucus GH 91-B01-06 N Delta,Delta Co.,Col. (10 SEEDS)",
@@ -13164,7 +13804,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus glaucus HMP 214 Clifton, Mesa Co, Colo - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-glaucus-hmp-214-clifton-mesa-co-colo-grafted"
@@ -13182,7 +13822,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus glaucus JM 15 Delta Co, Colo - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-glaucus-jm-15-delta-co-colo-grafted"
@@ -13191,7 +13831,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus glaucus PC 688 Grand Junction, Colo - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-glaucus-pc-688-grafted"
@@ -13200,7 +13840,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus glaucus SB 1740 Cactus Park, Colo - grafted (1 clone)",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-glaucus-sb-1740-cactus-park-colo-grafted"
@@ -13218,7 +13858,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus glaucus SB 1749 De Beque, Colo - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-glaucus-sb-1749-de-beque-colo-grafted"
@@ -13236,7 +13876,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus glaucus VVZ 089 Una, Garfield Co, Colo - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-glaucus-vvz-089-una-garfield-co-colo-grafted"
@@ -13307,7 +13947,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Echinomastus mariposensis HAL 143 Castaňos, Coah",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/echinomastus-mariposensis-hal-143-castanos-coah"
@@ -13329,6 +13969,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_6581"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Echinomastus mariposensis ocampo coahuila mex",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/echinomastus/echinomastus-mariposensis-ocampo-coahuila-mex.html"
       }
     ]
   },
@@ -13379,7 +14028,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus mesae-verdae FH 061.6 Tuntsa Wash, NM - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-mesae-verdae-fh-061-6-tuntsa-wash-nm-grafted"
@@ -13397,7 +14046,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus mesae-verdae KS 006 nw Shiprock, NM - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-mesae-verdae-ks-006-nw-shiprock-nm-grafted"
@@ -13415,7 +14064,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus mesae-verdae RP 111 Chimney Rock, Colo - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-mesae-verdae-rp-111-chimney-rock-colo-grafted"
@@ -13433,7 +14082,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus mesae-verdae SB 1010 Sheep Springs, NM - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-mesae-verdae-sb-1010-sheep-springs-nm-grafted"
@@ -13451,7 +14100,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus mesae-verdae SB 303 Shiprock, NM - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-mesae-verdae-sb-303-shiprock-nm-grafted"
@@ -13469,7 +14118,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus mesae-verdae SB 71 Montezuma Co, Colo - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-mesae-verdae-sb-71-montezuma-co-colo-grafted"
@@ -13487,7 +14136,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus mesae-verdae ŠN 1126 Ute Indian Res., Colo - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-mesae-verdae-sn-1126-ute-indian-res-colo-grafted"
@@ -13583,7 +14232,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus nyensis RP 137 Silver Peak, Nv - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-nyensis-rp-137-silver-peak-nv-10-seeds"
@@ -13592,7 +14241,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus nyensis RP 137 Silver Peak, Nv - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-nyensis-rp-137-silver-peak-nv-grafted"
@@ -13601,7 +14250,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus nyensis SB 1456 Esmeralda Co, Nv - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-nyensis-sb-1456-esmeralda-co-nv-10-seeds"
@@ -13610,7 +14259,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus nyensis SB 1456 Esmeralda Co, Nv - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-nyensis-sb-1456-esmeralda-co-nv-grafted"
@@ -13619,7 +14268,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus nyensis SB 1460 central Nye Co, Nv - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-nyensis-sb-1460-central-nye-co-nv-10-seeds"
@@ -13628,7 +14277,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus nyensis SB 1460 central Nye Co, Nv - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-nyensis-warm-springs-nye-co-nv-grafted"
@@ -13689,7 +14338,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha FH 0800 Dry Salt Lake, Tx - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-fh-0800-dry-salt-lake-tx-grafted"
@@ -13707,7 +14356,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha FH 083 Valencia Co, NM - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-fh-083-valencia-co-nm-grafted"
@@ -13716,7 +14365,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha FH 085 Snowflake, Az - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-fh-085-snowflake-az-grafted"
@@ -13734,7 +14383,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha FH 086 Holbrook, Az - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-fh-086-holbrook-az-grafted"
@@ -13752,7 +14401,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha FH 087.2 Washboard Wash, Az - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-fh-087-2-washboard-wash-az-grafted"
@@ -13788,7 +14437,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha RP 50 Navajo Co, Az - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-rp-50-navajo-co-az-grafted"
@@ -13815,7 +14464,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha RP 91 Otero Co, NM - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-rp-91-otero-co-nm-grafted"
@@ -13833,7 +14482,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha SB 1326 Mesa Aparejo, Valencia Co, NM - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-sb-1326-mesa-aparejo-valencia-co-nm-grafted"
@@ -13851,7 +14500,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha SB 172 Santa Fe Co, NM - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-sb-172-santa-fe-co-nm-grafted"
@@ -13869,7 +14518,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha SB 180 Los Alamos Co, NM - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-sb-180-los-alamos-co-nm-grafted"
@@ -13905,7 +14554,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha SB 1914 w Belen, NM - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-sb-1914-belen-nm-grafted"
@@ -13923,7 +14572,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha SB 330 San Ysidro, NM - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-sb-330-san-ysidro-nm-grafted"
@@ -13941,7 +14590,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha SB 504 Albuquerque, NM - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-sb-504-albuquerque-nm-grafted"
@@ -13995,7 +14644,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Toumeya papyracantha VZD 856 San Ysidro, Sandoval Co., NM - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/toumeya-papyracantha-vzd-856-san-ysidro-sandoval-co-nm-grafted"
@@ -14110,7 +14759,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus pubispinus 8.5 miles Cowboy Pass, Millard Co, Ut (naturhybrid x spinosior) - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-pubispinus-8-5-mil-cowboy-pass-millard-co-ut-naturhybrid-x-spinosior-grafted"
@@ -14119,7 +14768,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus pubispinus JB 1 Baker, Nv - 10 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-pubispinus-jb-1-baker-nv-10-seeds"
@@ -14128,7 +14777,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus pubispinus JB 1 Baker, Nv - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-pubispinus-jb-1-baker-nv-grafted"
@@ -14137,7 +14786,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus pubispinus PC 722 - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-pubispinus-pc-722-grafted"
@@ -14146,7 +14795,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus pubispinus naturhybrid x S. spinosior Browns Wash, Ut - loc. A - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-pubispinus-naturhybrid-x-s-spinosior-browns-wash-ut-lok-a-grafted"
@@ -14155,7 +14804,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus pubispinus naturhybrid x S. spinosior Browns Wash, Ut - loc. B - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-pubispinus-naturhybrid-x-s-spinosior-browns-wash-ut-lok-b-grafted"
@@ -14164,7 +14813,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus pubispinus naturhybrid x S. spinosior Browns Wash, Ut - lok. C - 10 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-pubispinus-naturhybrid-x-s-spinosior-browns-wash-ut-lok-c-10-seeds"
@@ -14173,7 +14822,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus pubispinus naturhybrid x S. spinosior Browns Wash, Ut - lok. C - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-pubispinus-naturhybrid-x-s-spinosior-browns-wash-ut-lok-c-grafted"
@@ -14261,7 +14910,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus wetlandicus Sand Wash, Ut - grafted",
-        "price": 1686,
+        "price": 1688,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-wetlandicus-sand-wash-ut-grafted"
@@ -14319,6 +14968,15 @@
         "productUrl": "https://kaktusy.webzdarma.cz/wp-content/uploads/2023/07/nabidka-jaro-28_03_2026.xlsx#SN1260"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Sclerocactus wrightiae",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/sclerocactus/sclerocactus-wrightiae.html"
+      },
+      {
         "siteId": "malej-jarda",
         "siteName": "Zahradnictví Malej Jarda",
         "productName": "Sclerocactus wrightiae GCG 10444 Lone Tree Cross, Emery Co.,Ut. (10 SEEDS)",
@@ -14340,7 +14998,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus wrightiae HK 1336 Wayne Co, Ut - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-wrightiae-hk-1336-wayne-co-ut-grafted"
@@ -14349,7 +15007,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus wrightiae HMP 516 Mesa Bute, Emery Co, Ut - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-wrightiae-hmp-516-grafted"
@@ -14358,7 +15016,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus wrightiae PC 725 Millers Canyon, Emery Co, Ut - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-wrightiae-pc-725-grafted"
@@ -14367,7 +15025,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus wrightiae PJR 464 Lone Tree Cross, Emery Co, Ut - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-wrightiae-pjr-464-lone-tree-cross-emery-co-ut-grafted"
@@ -14385,7 +15043,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Sclerocactus wrightiae SB 1585 w Wayne Co, Ut - grafted",
-        "price": 1873,
+        "price": 1876,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/sclerocactus-wrightiae-sb-1585-w-wayne-co-ut-grafted"
@@ -14748,7 +15406,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Strombocactus corregidorae KPP 1700 Maconi, Que",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/strombocactus-corregidorae-kpp-1700-maconi-que"
@@ -14757,7 +15415,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Strombocactus corregidorae KPP 1700 Maconi, Que - 50 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/strombocactus-corregidorae-kpp-1700-maconi-que-50-seeds"
@@ -15069,7 +15727,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Strombocactus disciformis f. minimus VM 204 Peňamiller, Que",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/strombocactus-disciformis-f-minimus-vm-204-penamiller-que"
@@ -15087,16 +15745,25 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Strombocactus disciformis f. pseudocorregidorae GCG 10947 Rancho Quemado, Que - 50 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/strombocactus-disciformis-f-pseudocorregidorae-gcg-10947-rancho-quemado-que-50-seeds"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Strombocactus disciformis minimus pp 362",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/strombocactus/strombocactus-disciformis-minimus-pp-362.html"
+      },
+      {
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Strombocactus disciformis ssp. esperanzae PM 67/007 Las Adjuntas, GTO - 50 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/strombocactus-disciformis-ssp-esperanzae-pm-67-007-las-adjuntas-gto-50-seeds"
@@ -15105,7 +15772,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Strombocactus disciformis ssp. esperanzae PM 67/007 Las Adjuntas, Gto",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/strombocactus-disciformis-ssp-esperanzae-pm-67-007-las-adjuntas-gto"
@@ -15114,7 +15781,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Strombocactus disciformis ssp. esperanzae VM 1065 Alamo, Gto",
-        "price": 1311,
+        "price": 1313,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/strombocactus-disciformis-ssp-esperanzae-vm-1065-alamo-gto"
@@ -15123,7 +15790,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Strombocactus disciformis ssp. esperanzae VM 1065 Alamo, Gto - 50 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/strombocactus-disciformis-ssp-esperanzae-vm-1065-alamo-gto-50-seeds"
@@ -15132,7 +15799,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Strombocactus disciformis v. jarmilae VM 207 Camargo, Que",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/strombocactus-disciformis-v-jarmilae-vm-207-camargo-que-1-cm"
@@ -15150,7 +15817,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Strombocactus disciformis v. pseudocorregidorae GCG 10947 Rancho Quemado, Que",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/strombocactus-disciformis-v-pseudocorregidorae-gcg-10947-rancho-quemado-que"
@@ -15172,6 +15839,15 @@
         "currency": "EUR",
         "inStock": false,
         "productUrl": "https://www.malej-jarda.cz/en/strombocactus-disciformis-v-minimus-n-of-vizaron--qro--10-seeds/"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Strombocactus disciformis vb 15",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/strombocactus/strombocactus-disciformis-vb-15.html"
       },
       {
         "siteId": "adblps",
@@ -15857,6 +16533,15 @@
         "productUrl": "https://www.malej-jarda.cz/en/turbinicarpus-boedeckerianus-gm-1512-puentes-nl-10-seeds/"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus boedekerianus rs 1233 la trinidad nl",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-boedekerianus-rs-1233-la-trinidad-nl.html"
+      },
+      {
         "siteId": "kakteen-cz",
         "siteName": "Kakteen.cz",
         "productName": "Turbinicarpus flaviflorus",
@@ -15893,6 +16578,15 @@
         "productUrl": "https://www.kakteen.cz/turbinicarpus-graminispinus/"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus graminispinus",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-graminispinus.html"
+      },
+      {
         "siteId": "adblps",
         "siteName": "ADBLPS",
         "productName": "Turbinicarpus graminispinus (ref 8316)",
@@ -15914,7 +16608,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus graminispinus VM 817 San Jose del Llano, NL",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-graminispinus-vm-817-san-jose-del-llano-nl"
@@ -15968,7 +16662,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus lohpohoroides PA 1656 Las Tablas, SLP - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-lohpohoroides-pa-1656-las-tablas-slp-10-seeds"
@@ -15977,7 +16671,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus lohpohoroides PC 04 Cerritos, SLP - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-lohpohoroides-pc-04-cerritos-slp-10-seeds"
@@ -16037,6 +16731,15 @@
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-3056"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus mombergeri rs 621 cerritos tepozan",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-mombergeri-rs-621-cerritos-tepozan.html"
+      },
+      {
         "siteId": "kakteen-cz",
         "siteName": "Kakteen.cz",
         "productName": "Turbinicarpus nikolae",
@@ -16049,7 +16752,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus nikolae GCG 10892 San Pedro, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-nikolae-gcg-10892-san-pedro-slp"
@@ -16215,6 +16918,15 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://www.malej-jarda.cz/en/turbinicarpus-schmiedickianus-ssp-pintoensis-f-long-spines-selection-tcg-pressa-del-pinto--slp--10-seeds/"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus schmiedickianus v klinkerianus tcg 7014 la negrita",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-schmiedickianus-v-klinkerianus-tcg-7014-la-negrita.html"
       },
       {
         "siteId": "wonderful-cactus",
@@ -16424,7 +17136,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus alonsoi RS 546 Xichu, Gto",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-alonsoi-xichu-gto"
@@ -16802,7 +17514,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus hoferi HO 434 Aramberri, NL",
-        "price": 262,
+        "price": 263,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-hoferi-ho-434-aramberri-nl"
@@ -17116,7 +17828,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus lophophoroides MZ 462 San Bartolo, SLP - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-lophophoroides-mz-462-san-bartolo-slp-10-seeds"
@@ -17129,6 +17841,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_1776"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus lophophoroides mz 462 san bartolo",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-lophophoroides-mz-462-san-bartolo.html"
       }
     ]
   },
@@ -17181,7 +17902,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus mandragora VM 300 Sierra Parras, Tangue Menchaca, Coah - grafted",
-        "price": 1499,
+        "price": 1501,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-mandragora-vm-300-sierra-parras-tangue-menchaca-coah-grafted"
@@ -17190,7 +17911,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus mandragora VM 300 Sierra Parras, Tangue Menchaca, Coah - seedlings",
-        "price": 937,
+        "price": 938,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-mandragora-vm-300-sierra-parras-tangue-menchaca-coah-seedlings"
@@ -17394,6 +18115,15 @@
         "productUrl": "https://wonderfulcactus.com/wonderfulcactus-SEEDS.pdf#entry-3066"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus krainzianus v minimus gm 964",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-krainzianus-v-minimus-gm-964.html"
+      },
+      {
         "siteId": "adblps",
         "siteName": "ADBLPS",
         "productName": "Turbinicarpus pseudomacrochele > Bernal/QRO/Mexique [GK_1812/97] (ref 1788)",
@@ -17473,6 +18203,24 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_1787"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus pseudomacrochele alenae rog 199",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-pseudomacrochele-alenae-rog-199.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus pseudomacrochele el sauz hid",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-pseudomacrochele-el-sauz-hid.html"
       },
       {
         "siteId": "hajek-cactus",
@@ -17640,7 +18388,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus pseudomacrochele v. minimus PP 220 San André, Cardonal, Hid - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-pseudomacrochele-v-minimus-pp-220-san-andre-cardonal-hid-10-seeds"
@@ -17649,7 +18397,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus pseudomacrochele v. sphacellatus VM 800 Zimapan, Que",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-pseudomacrochele-v-sphacellatus-vm-800-zimapan-que"
@@ -17658,7 +18406,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus pseudomacrochele v. sphacellatus VM 800 Zimapan, Que - 10 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-pseudomacrochele-v-sphacellatus-vm-800-zimapan-que-10-seeds"
@@ -17667,7 +18415,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus pseudomacrochele var. lausseri MH 490 Mesa de León, Que",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-pseudomacrochele-var-lausseri-mh-490-mesa-de-leon-que"
@@ -17685,7 +18433,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus pseudomacrochele var. lausseri MZ 571 Sierra del Doctor, Que",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-pseudomacrochele-var-lausseri-mz-571-sierra-del-doctor-que"
@@ -17694,7 +18442,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus pseudomacrochele var. lausseri MZ 571 Sierra del Doctor, Que - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-pseudomacrochele-var-lausseri-mz-571-sierra-del-doctor-que-10-seeds"
@@ -17975,7 +18723,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus pseudopectinatus MZ 455 Cerritos, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-pseudopectinatus-mz-455"
@@ -18011,7 +18759,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus pseudopectinatus f. rubriflorus MZ 736 Dr. Arroyo, NL",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-pseudopectinatus-f-rubriflorus-mz-736-dr-arroyo-nl"
@@ -18053,6 +18801,15 @@
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_14011"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus pseudopectinatus pp 402 los pinos",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-pseudopectinatus-pp-402-los-pinos.html"
+      },
+      {
         "siteId": "malej-jarda",
         "siteName": "Zahradnictví Malej Jarda",
         "productName": "Turbinicarpus pseudopectinatus rubriflorus MZ 236 Agua Nueva,NL  (10 SEEDS)",
@@ -18060,6 +18817,15 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://www.malej-jarda.cz/en/turbinicarpus-pseudopectinatus-rubriflorus-mz-236-agua-nueva-nl-10-seeds/"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus pseudopectinatus rubriflorus mz 736 dr arroyo nl",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-pseudopectinatus-rubriflorus-mz-736-dr-arroyo-nl.html"
       },
       {
         "siteId": "adblps",
@@ -18261,6 +19027,42 @@
         "productUrl": "https://www.cact.cz/files/dokumenty/2027/katalog-2027_v1.pdf#1606.11"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus knuthianus guadalcazar slp mex",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-knuthianus-guadalcazar-slp-mex.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus knuthianus rs 679 guadalcazar slp",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-knuthianus-rs-679-guadalcazar-slp.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus knuthianus tcg 45006",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-knuthianus-tcg-45006.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus saueri v septentrionalis kpp 1689 mina nl",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-saueri-v-septentrionalis-kpp-1689-mina-nl.html"
+      },
+      {
         "siteId": "kaktusy-webzdarma",
         "siteName": "Kaktusy webzdarma",
         "productName": "Gymnocactus saueri var. nelissae",
@@ -18268,6 +19070,15 @@
         "currency": "EUR",
         "inStock": null,
         "productUrl": "https://kaktusy.webzdarma.cz/wp-content/uploads/2023/07/nabidka-jaro-28_03_2026.xlsx#SN1505"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus ysabelae rs 238 tula mex",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-ysabelae-rs-238-tula-mex.html"
       },
       {
         "siteId": "adblps",
@@ -18354,7 +19165,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus saueri ssp. septentrionalis VM 655 Monterrey, NL - 10 seeds",
-        "price": 262,
+        "price": 263,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-saueri-ssp-septentrionalis-vm-655-monterrey-nl-10-seeds"
@@ -18517,6 +19328,15 @@
         "productUrl": "https://www.cact.cz/files/dokumenty/2027/katalog-2027_v1.pdf#5731.21"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus bonatzii mz 722 santo domingo slp",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-bonatzii-mz-722-santo-domingo-slp.html"
+      },
+      {
         "siteId": "malej-jarda",
         "siteName": "Zahradnictví Malej Jarda",
         "productName": "Turbinicarpus jauernigii MZ 474 Palomas SLP - flat, grey (10 SEEDS)",
@@ -18565,7 +19385,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus \"pintares\" VM 805 Santa Rita, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-pintares-vm-805-santa-rita-slp"
@@ -18601,7 +19421,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus spp. boedekerianus VM 724 Sandia Victoria, NL",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-vm-724-sandia-victoria-nl"
@@ -18628,7 +19448,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus ssp. boedeckerianus VM 724 Sandia Victoria, NL - 10 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-vm-724-sandia-victoria-nl-10-seeds"
@@ -18718,7 +19538,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus ssp. flaviflorus VM 1016 La Polvora, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-ssp-flaviflorus-vm-1016-la-polvora-slp"
@@ -18790,7 +19610,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus ssp. jauernigii MZ 474 Palomas, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-ssp-jauernigii-mz-474-palomas-slp"
@@ -18799,7 +19619,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus ssp. jauernigii MZ 474 Palomas, SLP - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-ssp-jauernigii-palomas-slp-10-seeds"
@@ -18880,7 +19700,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus ssp. klinkerianus MZ 406 La Negrita, SLP - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-ssp-klinkerianus-mz-406-la-negrita-slp-10-seeds"
@@ -19159,7 +19979,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus ssp. rioverdensis MZ 340 Rio Verde, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-ssp-rioverdensis-mz-340-rio-verde-slp"
@@ -19213,7 +20033,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus ssp. sanchezi-mejoradae VM 721 Lazaro Cardenas, NL",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-vm-721-lazaro-cardenas-nl"
@@ -19222,7 +20042,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus ssp. sanchezi-mejoradae VM 721 Lazaro Cardenas, NL - 10 seeds",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-vm-721-lazaro-cardenas-nl-10-seeds"
@@ -19258,7 +20078,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus schmiedickeanus ssp. schwarzii PAN 169 Palos Altos - Cerritos, SLP",
-        "price": 562,
+        "price": 563,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-schmiedickeanus-ssp-schwarzii-pan-169-palos-altos-cerritos-slp"
@@ -19438,6 +20258,24 @@
         "productUrl": "https://www.cact.cz/files/dokumenty/2027/katalog-2027_v1.pdf#1610.20"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus subterraneus ssp zaragosae zaragoza nl",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-subterraneus-ssp-zaragosae-zaragoza-nl.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Gymnocactus subterraneus v zaragosae sb 1437",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/gymnocactus/gymnocactus-subterraneus-v-zaragosae-sb-1437.html"
+      },
+      {
         "siteId": "kakteen-cz",
         "siteName": "Kakteen.cz",
         "productName": "Gymnocactus subterraneus v. zaragosae GM 1014.1",
@@ -19468,7 +20306,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus subterraneus VM 1144 Esperanza, NL",
-        "price": 1124,
+        "price": 1126,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-subterraneus-vm-1144-esperanza-nl"
@@ -19477,7 +20315,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus subterraneus VM 1144 Esperanza, NL - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-subterraneus-vm-1144-esperanza-nl-10-seeds"
@@ -19495,7 +20333,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus subterraneus ssp. boleanus VM 330 Santa Clara, NL - 10 seeds",
-        "price": 262,
+        "price": 263,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-subterraneus-ssp-boleanus-vm-330-santa-clara-nl-10-seeds"
@@ -19652,7 +20490,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus swobodae HO 16 Rayones, NL - 10 seeds",
-        "price": 112,
+        "price": 113,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-swobodae-ho-16-rayones-nl-10-seeds"
@@ -19683,6 +20521,15 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://www.malej-jarda.cz/en/turbinicarpus-swobodae-f--lau-1499-s-of-rayones--nl--10-seeds/"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus swobodae ho 16 rayones nuevo leon 1800m mex",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-swobodae-ho-16-rayones-nuevo-leon-1800m-mex.html"
       },
       {
         "siteId": "wonderful-cactus",
@@ -19793,6 +20640,15 @@
         "productUrl": "https://www.cact.cz/files/dokumenty/2027/katalog-2027_v1.pdf#5737.00"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus valdezianus",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-valdezianus.html"
+      },
+      {
         "siteId": "adblps",
         "siteName": "ADBLPS",
         "productName": "Turbinicarpus valdezianus > Mazapil/ZAC/Mexique [GK_3018/99] (ref 1834)",
@@ -19901,6 +20757,24 @@
         "productUrl": "https://adblps-graines-cactus.com/liste_graines.html#ref_1837"
       },
       {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus valdezianus san ignacio de texas nl",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-valdezianus-san-ignacio-de-texas-nl.html"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Turbinicarpus valdezianus sb 250",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/turbinicarpus/turbinicarpus-valdezianus-sb-250.html"
+      },
+      {
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus valdezianus v. albiflorus",
@@ -19913,7 +20787,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Turbinicarpus valdezianus v. albiflorus MZ 662 Cedros, Zac - 10 seeds",
-        "price": 187,
+        "price": 188,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/turbinicarpus-valdezianus-v-albiflorus-10-seeds-mz-662-cedros-zac"
@@ -20159,6 +21033,15 @@
         "currency": "EUR",
         "inStock": true,
         "productUrl": "https://www.malej-jarda.cz/en/uebelmannia-pseudopectinifera-rnk-39-f--the-most-southern-of-the-genus--s-of-guinda--trinta-reis--minas-gerais--brasil--10-seeds/"
+      },
+      {
+        "siteId": "succseed",
+        "siteName": "SuccSeed",
+        "productName": "Uebelmannia pseudopectinifera go 315 datasmg",
+        "price": null,
+        "currency": null,
+        "inStock": null,
+        "productUrl": "https://www.succseed.com/en/seeds-cacti/uebelmannia/uebelmannia-pseudopectinifera-go-315-datasmg.html"
       }
     ]
   },
@@ -21350,7 +22233,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Uebelmannia pectinifera HU 106 Minas Gerais, Brazil - 10 seeds",
-        "price": 937,
+        "price": 938,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/uebelmannia-pectinifera-hu-106-minas-gerais-brazil-10-seeds"
@@ -21359,7 +22242,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Uebelmannia pectinifera HU 106 Minas Gerais, Brazil - grafted",
-        "price": 2248,
+        "price": 2251,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/uebelmannia-pectinifera-hu-106-minas-gerais-brazil"
@@ -21431,7 +22314,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Uebelmannia pectinifera var. crebrispina HU 642 Barao de Quacuy, Minas Gerais, Brazil - 10 seeds",
-        "price": 749,
+        "price": 750,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/uebelmannia-pectinifera-var-crebrispina-hu-642-barao-de-quacuy-minas-gerais-brazil-10-seeds"
@@ -21440,7 +22323,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Uebelmannia pectinifera var. flavispina - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": false,
         "productUrl": "https://hajek-cactus.com/products/uebelmannia-pectinifera-var-flavispina-10-seeds"
@@ -21449,7 +22332,7 @@
         "siteId": "hajek-cactus",
         "siteName": "Hajek Cactus",
         "productName": "Uebelmannia pectinifera var. pseudopectinifera - 10 seeds",
-        "price": 599,
+        "price": 600,
         "currency": null,
         "inStock": true,
         "productUrl": "https://hajek-cactus.com/products/uebelmannia-pectinifera-var-pseudopectinifera-10-seeds"
