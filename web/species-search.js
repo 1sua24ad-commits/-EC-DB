@@ -3,8 +3,46 @@ const resultsEl = document.getElementById('results');
 const metaRow = document.getElementById('meta-row');
 const resultCountEl = document.getElementById('result-count');
 const totalCountEl = document.getElementById('total-count');
+const protectionEl = document.getElementById('filter-protection');
+const availabilityEl = document.getElementById('filter-availability');
+const genusListEl = document.getElementById('genus-list');
+const genusPanelTitle = document.getElementById('genus-panel-title');
+const resetButton = document.getElementById('reset-filters');
+const sidebar = document.getElementById('sidebar');
+const sidebarToggle = document.getElementById('sidebar-toggle');
+const sidebarToggleState = document.getElementById('sidebar-toggle-state');
 
 let allSpecies = [];
+
+const filters = {
+  cites: false,
+  iucn: false,
+  availability: 'all',
+  genus: null,
+};
+
+const hasListings = (s) => (s.listings ?? []).length > 0;
+const hasStock = (s) => (s.listings ?? []).some((l) => l.inStock === true);
+
+// 保護区分のチェックは絞り込み(AND)として扱う。両方にチェックを入れた場合は
+// 「CITES附属書IとIUCNの両方に掲載されている種」に絞られる。
+// 流通状況は互いに排他的(購入先ありと流通未確認は同時に成立しない)なので
+// ラジオボタンにして、矛盾する条件を選べないようにしている。
+const AVAILABILITY_OPTIONS = [
+  { value: 'all', label: 'すべて', test: () => true },
+  { value: 'listed', label: '購入先あり', test: hasListings },
+  { value: 'inStock', label: '在庫あり', test: hasStock },
+  { value: 'unlisted', label: '流通未確認', test: (s) => !hasListings(s) },
+];
+
+function matchesFilters(species, { ignoreGenus = false } = {}) {
+  if (filters.cites && species.citesAppendix !== 'I') return false;
+  if (filters.iucn && !species.iucnCategory) return false;
+  const option = AVAILABILITY_OPTIONS.find((o) => o.value === filters.availability);
+  if (option && !option.test(species)) return false;
+  if (!ignoreGenus && filters.genus && species.genus !== filters.genus) return false;
+  return true;
+}
 
 function escapeHtml(str) {
   return str.replace(/[&<>"']/g, (c) => ({
@@ -97,24 +135,120 @@ function render(list) {
   resultsEl.innerHTML = list.map(renderCard).join('');
 }
 
-function search(query) {
-  const q = query.trim().toLowerCase();
-  let filtered = allSpecies;
-  if (q) {
-    filtered = allSpecies.filter((s) => {
-      if (s.scientificName.toLowerCase().includes(q)) return true;
-      if (s.genus.toLowerCase().includes(q)) return true;
-      if (s.synonyms && s.synonyms.some((syn) => syn.toLowerCase().includes(q))) return true;
-      return false;
-    });
-  }
-  filtered = [...filtered].sort((a, b) => a.scientificName.localeCompare(b.scientificName));
+function matchesQuery(species, q) {
+  if (!q) return true;
+  if (species.scientificName.toLowerCase().includes(q)) return true;
+  if (species.genus.toLowerCase().includes(q)) return true;
+  return (species.synonyms ?? []).some((syn) => syn.toLowerCase().includes(q));
+}
 
-  resultCountEl.textContent = q ? `${filtered.length}件ヒット` : `全${filtered.length}件`;
+function renderProtectionFilters() {
+  const citesCount = allSpecies.filter((s) => s.citesAppendix === 'I').length;
+  const iucnCount = allSpecies.filter((s) => s.iucnCategory).length;
+  protectionEl.innerHTML = `
+    <label class="filter-option">
+      <input type="checkbox" data-filter="cites"${filters.cites ? ' checked' : ''}>
+      <span>CITES附属書I</span><span class="count">${citesCount}</span>
+    </label>
+    <label class="filter-option">
+      <input type="checkbox" data-filter="iucn"${filters.iucn ? ' checked' : ''}>
+      <span>IUCN掲載</span><span class="count">${iucnCount}</span>
+    </label>
+  `;
+}
+
+function renderAvailabilityFilters() {
+  availabilityEl.innerHTML = AVAILABILITY_OPTIONS.map((option) => {
+    const count = option.value === 'all' ? allSpecies.length : allSpecies.filter(option.test).length;
+    return `
+      <label class="filter-option">
+        <input type="radio" name="availability" value="${option.value}"${filters.availability === option.value ? ' checked' : ''}>
+        <span>${option.label}</span><span class="count">${count}</span>
+      </label>
+    `;
+  }).join('');
+}
+
+// 属索引の件数は、属以外の絞り込みを適用した後の数を出す。
+// 「CITES附属書Iに絞ると、その属に何種残るのか」がその場で分かるようにするため。
+function renderGenusIndex(query) {
+  const counts = new Map();
+  for (const species of allSpecies) {
+    if (!matchesFilters(species, { ignoreGenus: true })) continue;
+    if (!matchesQuery(species, query)) continue;
+    counts.set(species.genus, (counts.get(species.genus) ?? 0) + 1);
+  }
+
+  const genera = [...counts.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+  genusPanelTitle.textContent = `属索引(${genera.length}属)`;
+
+  if (genera.length === 0) {
+    genusListEl.innerHTML = '<div class="empty" style="padding: 12px 0; font-size: 0.8rem;">該当なし</div>';
+    return;
+  }
+
+  genusListEl.innerHTML = genera.map(([genus, count]) => `
+    <button type="button" class="genus-item" data-genus="${escapeHtml(genus)}" aria-pressed="${filters.genus === genus}">
+      <span>${escapeHtml(genus)}</span><span class="count">${count}</span>
+    </button>
+  `).join('');
+}
+
+function update() {
+  const q = input.value.trim().toLowerCase();
+
+  const filtered = allSpecies
+    .filter((s) => matchesFilters(s) && matchesQuery(s, q))
+    .sort((a, b) => a.scientificName.localeCompare(b.scientificName));
+
+  renderGenusIndex(q);
+
+  const isNarrowed = q || filters.cites || filters.iucn || filters.genus || filters.availability !== 'all';
+  resultCountEl.textContent = isNarrowed
+    ? `${filtered.length}件ヒット`
+    : `全${filtered.length}件`;
   render(filtered);
 }
 
-input.addEventListener('input', () => search(input.value));
+input.addEventListener('input', update);
+
+protectionEl.addEventListener('change', (event) => {
+  const key = event.target.dataset.filter;
+  if (!key) return;
+  filters[key] = event.target.checked;
+  update();
+});
+
+availabilityEl.addEventListener('change', (event) => {
+  if (event.target.name !== 'availability') return;
+  filters.availability = event.target.value;
+  update();
+});
+
+genusListEl.addEventListener('click', (event) => {
+  const button = event.target.closest('.genus-item');
+  if (!button) return;
+  const { genus } = button.dataset;
+  filters.genus = filters.genus === genus ? null : genus;
+  update();
+});
+
+resetButton.addEventListener('click', () => {
+  filters.cites = false;
+  filters.iucn = false;
+  filters.availability = 'all';
+  filters.genus = null;
+  input.value = '';
+  renderProtectionFilters();
+  renderAvailabilityFilters();
+  update();
+});
+
+sidebarToggle.addEventListener('click', () => {
+  const isOpen = sidebar.classList.toggle('open');
+  sidebarToggle.setAttribute('aria-expanded', String(isOpen));
+  sidebarToggleState.textContent = isOpen ? '▲' : '▼';
+});
 
 async function init() {
   resultsEl.innerHTML = '<div class="loading">読み込み中...</div>';
@@ -126,7 +260,9 @@ async function init() {
     input.disabled = false;
     metaRow.hidden = false;
     totalCountEl.textContent = `総登録種数: ${allSpecies.length}`;
-    search('');
+    renderProtectionFilters();
+    renderAvailabilityFilters();
+    update();
   } catch (err) {
     console.error('species_master.json の読み込みに失敗しました', err);
     resultsEl.innerHTML = `<div class="error">データの読み込みに失敗しました(${escapeHtml(String(err.message || err))})。ローカルサーバー経由で開いているか確認してください。</div>`;
