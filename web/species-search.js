@@ -13,6 +13,9 @@ const sidebarToggle = document.getElementById('sidebar-toggle');
 const sidebarToggleState = document.getElementById('sidebar-toggle-state');
 
 let allSpecies = [];
+let currentQuery = '';
+
+const LISTING_PREVIEW_COUNT = 5;
 
 const filters = {
   cites: false,
@@ -63,9 +66,7 @@ function renderCard(species) {
     ? '<span class="genus-note">(属単位の登録。この属の全種が対象)</span>'
     : '';
 
-  const synonymsHtml = species.synonyms && species.synonyms.length > 0
-    ? `<div class="synonyms">異名: ${species.synonyms.map(escapeHtml).join(', ')}</div>`
-    : '';
+  const synonymsHtml = renderSynonyms(species);
 
   return `
     <div class="card">
@@ -75,6 +76,50 @@ function renderCard(species) {
       ${renderListings(species)}
     </div>
   `;
+}
+
+// 異名は種によって100件を超えることがあり(最多はHaageocereus pacalaensisの104件)、
+// 全件並べるとカード本体の情報が埋もれてしまう。既定では数件だけ見せて残りは畳む。
+// ただし検索語が異名に一致してヒットした場合、一致した異名が畳まれた側に隠れていると
+// 「なぜヒットしたのか」が分からなくなるため、一致するものを先頭に並べ替える。
+const SYNONYM_PREVIEW_COUNT = 5;
+
+function renderSynonyms(species) {
+  const synonyms = species.synonyms ?? [];
+  if (synonyms.length === 0) return '';
+
+  const ordered = currentQuery
+    ? [...synonyms].sort((a, b) => {
+      const aHit = a.toLowerCase().includes(currentQuery);
+      const bHit = b.toLowerCase().includes(currentQuery);
+      return aHit === bHit ? 0 : aHit ? -1 : 1;
+    })
+    : synonyms;
+
+  const shown = ordered.slice(0, SYNONYM_PREVIEW_COUNT).map(highlightQuery).join(', ');
+  const restCount = ordered.length - SYNONYM_PREVIEW_COUNT;
+  if (restCount <= 0) {
+    return `<div class="synonyms">異名: ${shown}</div>`;
+  }
+
+  const rest = ordered.slice(SYNONYM_PREVIEW_COUNT).map(highlightQuery).join(', ');
+  return `
+    <div class="synonyms">
+      異名: ${shown}<span class="collapsible" hidden>, ${rest}</span>
+      <button type="button" class="more-toggle" data-more="他${restCount}件">他${restCount}件</button>
+    </div>
+  `;
+}
+
+function highlightQuery(text) {
+  const escaped = escapeHtml(text);
+  if (!currentQuery) return escaped;
+  const index = text.toLowerCase().indexOf(currentQuery);
+  if (index === -1) return escaped;
+  const before = escapeHtml(text.slice(0, index));
+  const hit = escapeHtml(text.slice(index, index + currentQuery.length));
+  const after = escapeHtml(text.slice(index + currentQuery.length));
+  return `${before}<mark>${hit}</mark>${after}`;
 }
 
 function stockBadge(inStock) {
@@ -112,12 +157,23 @@ function renderListings(species) {
     .map((g) => `${escapeHtml(g.siteName)}(${g.items.length}件)`)
     .join(' / ');
 
-  const bodyHtml = siteGroups.map((g) => `
-    <div class="listing-site-group">
-      <div class="listing-site-name">${escapeHtml(g.siteName)}</div>
-      ${g.items.map(renderListingItem).join('')}
-    </div>
-  `).join('');
+  // 1種で190件(Ariocarpus retusus)に達するサイトもあるため、サイトごとに
+  // 先頭数件だけ出して残りは畳む。サイト名の右に総数を出しておけば、
+  // 畳んだ状態でもそのサイトが何件扱っているかは分かる。
+  const bodyHtml = siteGroups.map((g) => {
+    const shown = g.items.slice(0, LISTING_PREVIEW_COUNT).map(renderListingItem).join('');
+    const restCount = g.items.length - LISTING_PREVIEW_COUNT;
+    const rest = restCount > 0
+      ? `<div class="collapsible" hidden>${g.items.slice(LISTING_PREVIEW_COUNT).map(renderListingItem).join('')}</div>
+         <button type="button" class="more-toggle" data-more="他${restCount}件を表示">他${restCount}件を表示</button>`
+      : '';
+    return `
+      <div class="listing-site-group">
+        <div class="listing-site-name">${escapeHtml(g.siteName)} <span class="listing-site-count">${g.items.length}件</span></div>
+        ${shown}${rest}
+      </div>
+    `;
+  }).join('');
 
   return `
     <details class="listings">
@@ -196,6 +252,7 @@ function renderGenusIndex(query) {
 
 function update() {
   const q = input.value.trim().toLowerCase();
+  currentQuery = q;
 
   const filtered = allSpecies
     .filter((s) => matchesFilters(s) && matchesQuery(s, q))
@@ -242,6 +299,15 @@ resetButton.addEventListener('click', () => {
   renderProtectionFilters();
   renderAvailabilityFilters();
   update();
+});
+
+resultsEl.addEventListener('click', (event) => {
+  const button = event.target.closest('.more-toggle');
+  if (!button) return;
+  const collapsible = button.parentElement.querySelector('.collapsible');
+  if (!collapsible) return;
+  collapsible.hidden = !collapsible.hidden;
+  button.textContent = collapsible.hidden ? button.dataset.more : '折りたたむ';
 });
 
 sidebarToggle.addEventListener('click', () => {

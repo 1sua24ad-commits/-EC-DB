@@ -152,7 +152,25 @@
   }
   .sci-name { font-style: italic; font-weight: 600; font-size: 1.05rem; }
   .genus-note { color: var(--muted); font-size: 0.8rem; margin-left: 6px; font-style: normal; }
-  .synonyms { color: var(--muted); font-size: 0.82rem; margin-top: 4px; }
+  .synonyms { color: var(--muted); font-size: 0.82rem; margin-top: 4px; line-height: 1.6; }
+  .synonyms mark, .listing-name mark {
+    background: var(--iucn-soft);
+    color: var(--iucn);
+    border-radius: 3px;
+    padding: 0 2px;
+  }
+  .more-toggle {
+    font: inherit;
+    font-size: 0.78rem;
+    color: var(--link);
+    background: none;
+    border: none;
+    padding: 0 2px;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .more-toggle:hover { text-decoration: underline; }
+  .listing-site-count { font-weight: 400; }
   .badges { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; }
   .badge {
     display: inline-block;
