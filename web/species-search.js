@@ -8,6 +8,7 @@ const availabilityEl = document.getElementById('filter-availability');
 const genusListEl = document.getElementById('genus-list');
 const genusPanelTitle = document.getElementById('genus-panel-title');
 const resetButton = document.getElementById('reset-filters');
+const sortSelect = document.getElementById('sort-select');
 const sidebar = document.getElementById('sidebar');
 const sidebarToggle = document.getElementById('sidebar-toggle');
 const sidebarToggleState = document.getElementById('sidebar-toggle-state');
@@ -31,6 +32,17 @@ const hasStock = (s) => (s.listings ?? []).some((l) => l.inStock === true);
 // 「CITES附属書IとIUCNの両方に掲載されている種」に絞られる。
 // 流通状況は互いに排他的(購入先ありと流通未確認は同時に成立しない)なので
 // ラジオボタンにして、矛盾する条件を選べないようにしている。
+// 件数が同じときに並びが実行のたびに変わらないよう、いずれも最後は学名順で決着させる。
+const byName = (a, b) => a.scientificName.localeCompare(b.scientificName);
+const SORTERS = {
+  name: byName,
+  listings: (a, b) => (b.listings ?? []).length - (a.listings ?? []).length || byName(a, b),
+  stock: (a, b) => {
+    const count = (s) => (s.listings ?? []).filter((l) => l.inStock === true).length;
+    return count(b) - count(a) || byName(a, b);
+  },
+};
+
 const AVAILABILITY_OPTIONS = [
   { value: 'all', label: 'すべて', test: () => true },
   { value: 'listed', label: '購入先あり', test: hasListings },
@@ -60,6 +72,16 @@ function renderCard(species) {
   }
   if (species.iucnCategory) {
     badges.push(`<span class="badge iucn">IUCN: ${escapeHtml(species.iucnCategory)}</span>`);
+  }
+
+  // 対象11サイトを横断しても販売が見つからなかった種であることを明示する。
+  // 「データが無い」のではなく「現在の園芸市場で流通が確認できない」という、
+  // 保護状況を見るうえで意味のある情報なので、購入可能な種と区別して示す。
+  const stockCount = (species.listings ?? []).filter((l) => l.inStock === true).length;
+  if ((species.listings ?? []).length === 0) {
+    badges.push('<span class="badge unlisted">流通未確認</span>');
+  } else if (stockCount > 0) {
+    badges.push(`<span class="badge available">在庫あり ${stockCount}件</span>`);
   }
 
   const genusNote = species.rank === 'GENUS'
@@ -256,7 +278,7 @@ function update() {
 
   const filtered = allSpecies
     .filter((s) => matchesFilters(s) && matchesQuery(s, q))
-    .sort((a, b) => a.scientificName.localeCompare(b.scientificName));
+    .sort(SORTERS[sortSelect.value] ?? SORTERS.name);
 
   renderGenusIndex(q);
 
@@ -268,6 +290,7 @@ function update() {
 }
 
 input.addEventListener('input', update);
+sortSelect.addEventListener('change', update);
 
 protectionEl.addEventListener('change', (event) => {
   const key = event.target.dataset.filter;

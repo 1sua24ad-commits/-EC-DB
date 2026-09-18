@@ -117,6 +117,8 @@
     .sidebar-body { display: none; margin-top: 10px; }
     .sidebar.open .sidebar-body { display: flex; }
     .genus-list { max-height: 240px; }
+    /* 「全174件」と重複する情報であり、狭い幅では並び順の選択を優先する */
+    #total-count { display: none; }
   }
   .search-box {
     position: sticky;
@@ -139,9 +141,12 @@
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    flex-wrap: wrap;
+    gap: 6px 14px;
     color: var(--muted);
     font-size: 0.85rem;
     margin: 4px 2px 12px;
+    white-space: nowrap;
   }
   .card {
     background: var(--panel);
@@ -182,6 +187,24 @@
   .badge.cites { background: var(--accent-soft); color: var(--accent); }
   .badge.iucn { background: var(--iucn-soft); color: var(--iucn); }
   .badge.fuzzy { background: #eee; color: var(--muted); font-weight: 500; }
+  .badge.available { background: var(--accent-soft); color: var(--stock-in); }
+  .badge.unlisted {
+    background: transparent;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    font-weight: 500;
+  }
+  .meta-right { display: flex; align-items: baseline; gap: 14px; }
+  .sort-control { display: flex; align-items: center; gap: 5px; }
+  .sort-control select {
+    font: inherit;
+    font-size: 0.85rem;
+    color: var(--text);
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 2px 4px;
+  }
   .listings { margin-top: 10px; border-top: 1px solid var(--border); padding-top: 8px; }
   .listings summary {
     cursor: pointer;
@@ -285,7 +308,16 @@
         </div>
         <div class="meta-row" id="meta-row" hidden>
           <span id="result-count"></span>
-          <span id="total-count"></span>
+          <span class="meta-right">
+            <label class="sort-control">並び順
+              <select id="sort-select">
+                <option value="name">学名順</option>
+                <option value="listings">購入先の多い順</option>
+                <option value="stock">在庫ありの多い順</option>
+              </select>
+            </label>
+            <span id="total-count"></span>
+          </span>
         </div>
 
         <div id="results"></div>
