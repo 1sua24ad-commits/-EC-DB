@@ -22,8 +22,23 @@ export function extractSynonyms(synonymsWithAuthors) {
     ' '
   );
 
-  const pattern = /[A-Z][a-zà-ÿ]+(?:\s+[a-zà-ÿ]+){1,2}/g;
+  // 種小名にはハイフンを含むもの(例: Sclerocactus mesae-verdae)があるため、
+  // 語の構成文字にハイフンを含める。これが無いと "Coloradoa mesae" のように
+  // 途中で切れた誤った学名が登録されてしまう。
+  const pattern = /[A-Z][a-zà-ÿ-]+(?:\s+[a-zà-ÿ][a-zà-ÿ-]*){1,2}/g;
   const matches = withoutRanks.match(pattern) || [];
 
-  return [...new Set(matches.map((s) => s.trim()))];
+  // "Fric ex"(Fric ex Backeberg)や "Buining et al" のように、著者名の一部が
+  // 「大文字始まり+小文字語」の形をとって学名のように見えてしまうものを除く。
+  // これらの語は学名の種小名として使われることはない。
+  const AUTHOR_CONNECTORS = new Set(['ex', 'et', 'al', 'in', 'and']);
+
+  return [...new Set(
+    matches
+      .map((s) => s.trim())
+      .filter((s) => {
+        const words = s.split(/\s+/);
+        return words.length >= 2 && !AUTHOR_CONNECTORS.has(words[1].toLowerCase());
+      })
+  )];
 }

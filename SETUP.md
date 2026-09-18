@@ -13,6 +13,7 @@ IntelliJ IDEAは、これらのファイルを編集・実行するための道�
 | ファイル/フォルダ | 役割 |
 |---|---|
 | `data/source/*.csv` | 元データ(CITES附属書I種リスト、IUCN分類、IUCN評価)。既に配置済み |
+| `data/wfo_cactaceae_names.tsv` | World Flora Online由来のサボテン科学名索引(シノニム判定用)。既に配置済み・更新手順は後述 |
 | `db/schema.sql` | データベースの設計図(どんな表を作るかの定義) |
 | `scripts/db.js` | データベースに接続するための共通処理 |
 | `scripts/importSpeciesMaster.js` | 3つのCSVを読み込んでデータベース(`data/cactus.db`)を作るプログラム |
@@ -269,6 +270,27 @@ CITES・IUCNのCSVが新しくなったときは、次の順番で再実行し�
 
 商品の在庫・価格情報を最新化したいだけの場合は、`scrape products` → `export species` の順で実行すれば十分です(CSVの再取り込みは不要)。
 
+### World Flora Online(学名索引)を更新する場合
+
+シノニム(異名)の判定には、CITESのシノニム欄に加えてWorld Flora Online (WFO) Plant Listの
+サボテン科学名索引 `data/wfo_cactaceae_names.tsv` を使っています。既に配置済みなので通常は不要ですが、
+WFOは半年ごと(6月・12月の至の日)に新版を出すため、更新したい場合は次の手順で差し替えます。
+
+1. Zenodoの公開リポジトリ(DOI: `10.5281/zenodo.7460141`)から最新版の `_DwC_backbone_R.zip` をダウンロードする
+   (ライセンスはCC0。WFO本体のサイト`worldfloraonline.org`は`robots.txt`で自動アクセスを禁止しているため、
+   サイトを巡回するのではなく、この公開データセットを使うこと)
+2. zipを展開する(中身は `classification.csv` 1ファイル、約900MB)
+3. 次のコマンドでサボテン科の行だけを抜き出し、索引を作り直す
+
+   ```bash
+   node scripts/buildWfoNames.js <展開した classification.csv のパス>
+   ```
+
+4. `import species` → `scrape products` → `export species` の順に再実行する
+
+> `import species` は `species_master` のidを振り直すため `products` も一緒にクリアされます。
+> WFO索引を更新したときは `scrape products` のやり直しが必須です。
+
 ---
 
 ## 10. Phase 1(商品スクレイピング)の現状と制約
@@ -318,4 +340,4 @@ CITES・IUCNのCSVが新しくなったときは、次の順番で再実行し�
 
 ### 現在の実績値(2026年9月時点)
 
-11サイト合計で約23,700商品を取得し、うち**2,208商品**が保護種と確定マッチ(**121種**に何らかの購入先あり)。
+11サイト合計で約23,900商品を取得し、うち**2,439商品**が保護種と確定マッチ(**134種**に何らかの購入先あり)。

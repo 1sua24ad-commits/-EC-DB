@@ -96,3 +96,30 @@ test('#12 種小名の直後にスペース無しでカンマが続いてもマ�
   assert.equal(result.status, 'confirmed');
   assert.equal(result.matchLevel, 'species');
 });
+
+test('#13 属の分割で旧属名になった学名がWFO由来シノニムでマッチする', () => {
+  // CITESの Turbinicarpus mandragora は、WFOでは Rapicactus mandragora が現行名。
+  // Koehresのような古いサイトは Gymnocactus mandragora 名義で販売している。
+  // どちらの表記でも同一の保護種として確定マッチしなければならない。
+  for (const name of ['Gymnocactus mandragora', 'Rapicactus mandragora']) {
+    const result = matchSpecies(name, db);
+    assert.equal(result.status, 'confirmed', name);
+    assert.equal(result.citesAppendix, 'I', name);
+  }
+});
+
+test('#14 近年の属移動(Escobaria→Pelecyphora)もマッチする', () => {
+  // CITES/IUCNの学名(Escobaria minima)より新しいWFOの現行名。
+  // CITESのシノニム欄には無く、WFO索引を取り込んで初めて拾えるようになった。
+  const result = matchSpecies('Pelecyphora minima', db);
+  assert.equal(result.status, 'confirmed');
+  assert.equal(result.matchLevel, 'species');
+});
+
+test('#15 WFO取り込み後も親種名単体は保護種扱いされない', () => {
+  // WFOは Pediocactus simpsonii var. bradyi を bradyi のシノニムとして持つ。
+  // これを二名式に潰して登録すると、非保護の普通種 Pediocactus simpsonii が
+  // 保護種として誤検出される(#11の不具合の再発)。3語のまま保持する設計の回帰テスト。
+  const result = matchSpecies('Pediocactus simpsonii', db);
+  assert.equal(result.status, 'none');
+});
