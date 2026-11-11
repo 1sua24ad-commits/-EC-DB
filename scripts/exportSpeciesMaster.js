@@ -26,12 +26,23 @@ function main() {
   // 公開ページに載せるのは match_status = 'confirmed' の商品のみ。
   // needs_review(タイプミス等のファジーマッチ)は誤って「購入可能」と断定してしまう
   // リスクがあるため、ここでは載せず今後の手動レビュー対象として products テーブルに留める。
+  //
+  // また products は upsert のみで行を消さないため、販売終了品や前シーズンの価格表の商品が
+  // 残り続ける。サイトごとに「最後に取得に成功した実行」で見つかった商品だけを載せるため、
+  // そのサイトの最新 last_checked_at から6時間以内に確認された行に限定する
+  // (取得に失敗したサイトは前回実行分がそのまま最新なので、前回のデータが残る)。
   const listingsBySpeciesId = new Map();
   const productRows = db.prepare(`
-    SELECT species_id, site_id, product_name, price, currency, in_stock, product_url
-    FROM products
-    WHERE match_status = 'confirmed' AND species_id IS NOT NULL
-    ORDER BY product_name ASC
+    SELECT p.species_id, p.site_id, p.product_name, p.price, p.currency, p.in_stock, p.product_url
+    FROM products p
+    JOIN (
+      SELECT site_id, datetime(MAX(last_checked_at), '-6 hours') AS fresh_since
+      FROM products
+      GROUP BY site_id
+    ) latest ON latest.site_id = p.site_id
+    WHERE p.match_status = 'confirmed' AND p.species_id IS NOT NULL
+      AND p.last_checked_at >= latest.fresh_since
+    ORDER BY p.product_name ASC
   `).all();
   for (const row of productRows) {
     if (!listingsBySpeciesId.has(row.species_id)) listingsBySpeciesId.set(row.species_id, []);

@@ -34,6 +34,11 @@ https://1sua24ad-commits.github.io/-EC-DB/
 [フロントエンド表示]
   └─ 静的JSON + HTML/CSS/Vanilla JS (サーバーレス構成)
 
+対象ECサイト(12サイト)
+Hajek Cactus / ADBLPS / Zahradnictví Malej Jarda / Kakteen.cz / Rare Cacti Top / Kaktus Köhres /
+Kaktusy webzdarma / Cactus Moravia / Wonderful Cactus / Cact.cz / SuccSeed / Cactus Hobby
+(各サイトの取得方式と、対象外にしたサイトの理由はSETUP.mdを参照)
+
 優先順位付き・多段階の学名照合アルゴリズム単なる文字列の一致ではなく、「拾い漏れを防ぐ（inclusive）」設計と「誤検出を防ぐ（安全側に倒す）」設計を両立させるため、
 以下の優先順位で多段階の判定を行っています。  
 シノニム（異名）は、CITESのシノニム欄に加えて、世界の植物分類の標準リストであるWorld Flora Online (WFO) Plant Listの
