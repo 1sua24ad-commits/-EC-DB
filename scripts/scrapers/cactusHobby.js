@@ -27,10 +27,17 @@ export async function scrape() {
   const items = [];
   for (const xlsxUrl of xlsxUrls) {
     const buffer = await fetchArrayBuffer(xlsxUrl);
-    const rows = parseSeedlistWorkbook(buffer);
+    // 価格列の見出しは「Price per portion」で通貨の記載が無いが、サイトの注文案内
+    // (最低注文額250 Kč、送料もKč建て)からチェコ・コルナ建てと判断できる(2026-11確認)。
+    const rows = parseSeedlistWorkbook(buffer, { pricePattern: /price per portion/i, priceCurrency: 'CZK' });
 
     for (const row of rows) {
-      const productName = `${row.genus} ${row.speciesDescription}`.replace(/\s+/g, ' ').trim();
+      const fieldNumber = String(row.row['Field number'] ?? '').trim();
+      const seeds = row.row['Seeds per portion'];
+      const productName = [row.genus, row.speciesDescription, fieldNumber, seeds ? `(${seeds} seeds)` : '']
+        .join(' ')
+        .replace(/\s+/g, ' ')
+        .trim();
       items.push({
         productName,
         matchText: row.matchText,
@@ -39,7 +46,7 @@ export async function scrape() {
         inStock: null, // 在庫表記が無いため不明として扱う
         productUrl: `${xlsxUrl}#${encodeURIComponent(row.code)}`,
         imageUrl: null,
-        rawData: { code: row.code, sourceFile: xlsxUrl },
+        rawData: { code: row.code, fieldNumber: fieldNumber || null, seedsPerPortion: seeds || null, locality: row.row.Locality || null, sourceFile: xlsxUrl },
       });
     }
   }
